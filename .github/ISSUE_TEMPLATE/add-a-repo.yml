@@ -1,0 +1,30 @@
+name: Add a repo
+description: Suggest an open-source LLM wiki or AI knowledge base
+title: "Add: owner/repo"
+labels: ["submission"]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: GitHub URL
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of project is it?
+      options:
+        - LLM wikis
+        - RAG platforms
+        - MCP & agent skills
+        - Docs Q&A
+        - Knowledge graphs
+        - Personal knowledge
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Anything the README does not say
+      description: Optional. The review reads the README, so the best way to get listed is a README that shows it working.
