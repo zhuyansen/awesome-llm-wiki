@@ -2,7 +2,7 @@
 
 [中文](README.zh-CN.md)
 
-Open-source tools where **an LLM or agent builds and maintains a knowledge base**: LLM wikis of linked markdown pages, RAG knowledge-base platforms, MCP servers and skills, docs Q&A, knowledge graphs, personal knowledge. 226 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
+Open-source tools where **an LLM or agent builds and maintains a knowledge base**: LLM wikis of linked markdown pages, RAG knowledge-base platforms, MCP servers and skills, docs Q&A, knowledge graphs, personal knowledge. 230 repos, each one read and security-graded by [Agent Skills Hub](https://agentskillshub.top?utm_source=github&utm_medium=awesome-list).
 
 Live page with filters: **[https://agentskillshub.top/best/knowledge-base/](https://agentskillshub.top/best/knowledge-base/?utm_source=github&utm_medium=awesome-list)** · refreshed every 8 hours
 
@@ -10,9 +10,9 @@ Live page with filters: **[https://agentskillshub.top/best/knowledge-base/](http
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>📖 LLM wikis</b><br><sub>68 repos</sub><br><br><sub>An agent writes and keeps a wiki of linked markdown pages.</sub><br><a href="#type-llm_wiki"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📖 LLM wikis</b><br><sub>70 repos</sub><br><br><sub>An agent writes and keeps a wiki of linked markdown pages.</sub><br><a href="#type-llm_wiki"><b>View the list →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🏗 RAG platforms</b><br><sub>9 repos</sub><br><br><sub>RAG knowledge-base platforms with their own interface.</sub><br><a href="#type-rag_platform"><b>View the list →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🔌 MCP & agent skills</b><br><sub>56 repos</sub><br><br><sub>MCP servers and skills that let an agent search a knowledge base.</sub><br><a href="#type-mcp"><b>View the list →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🔌 MCP & agent skills</b><br><sub>58 repos</sub><br><br><sub>MCP servers and skills that let an agent search a knowledge base.</sub><br><a href="#type-mcp"><b>View the list →</b></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><b>📄 Docs Q&A</b><br><sub>23 repos</sub><br><br><sub>Answers from product docs, codebases, papers or PDFs.</sub><br><a href="#type-docs_qa"><b>View the list →</b></a></td>
@@ -23,9 +23,9 @@ Live page with filters: **[https://agentskillshub.top/best/knowledge-base/](http
 
 ## Contents
 
-- [📖 LLM wikis](#type-llm_wiki) (68)
+- [📖 LLM wikis](#type-llm_wiki) (70)
 - [🏗 RAG platforms](#type-rag_platform) (9)
-- [🔌 MCP & agent skills](#type-mcp) (56)
+- [🔌 MCP & agent skills](#type-mcp) (58)
 - [📄 Docs Q&A](#type-docs_qa) (23)
 - [🕸 Knowledge graphs](#type-graph) (64)
 - [🧠 Personal knowledge](#type-personal) (6)
@@ -69,6 +69,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 600 | Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format… | [SAFE](https://agentskillshub.top/skill/zosmaai/pi-llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki) | 394 | LLM-powered knowledge base from your Claude Code, Codex CLI, Copilot, Cursor & Gemini sessions. Karpathy's LLM Wiki pattern — implemented and shipped. | [SAFE](https://agentskillshub.top/skill/Pratiyush/llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [ussumant/llm-wiki-compiler](https://github.com/ussumant/llm-wiki-compiler) | 325 | Claude Code plugin that compiles markdown knowledge files into a topic-based wiki. Implements Karpathy's LLM Knowledge Base pattern. | [SAFE](https://agentskillshub.top/skill/ussumant/llm-wiki-compiler/?utm_source=github&utm_medium=awesome-list) |
+| [luotwo/llm-wiki](https://github.com/luotwo/llm-wiki) | 223 | LLM Wiki - 用 LLM 构建持续积累的个人知识库，含 Claude Code Skill 和实战经验 | [SAFE](https://agentskillshub.top/skill/luotwo/llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [mduongvandinh/llm-wiki](https://github.com/mduongvandinh/llm-wiki) | 213 | Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy. | [SAFE](https://agentskillshub.top/skill/mduongvandinh/llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [kfchou/wiki-skills](https://github.com/kfchou/wiki-skills) | 186 | LLM-maintained personal wiki skills for Claude Code — implements Karpathy's LLM Wiki pattern | [SAFE](https://agentskillshub.top/skill/kfchou/wiki-skills/?utm_source=github&utm_medium=awesome-list) |
 | [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) | 176 | 📚 Student LLM Wiki — AI-compiled knowledge base for university students. Drop course slides, get a persistent interlinked wiki. Feynman review, exam… | [SAFE](https://agentskillshub.top/skill/IssacW228/student-llm-wiki/?utm_source=github&utm_medium=awesome-list) |
@@ -80,8 +81,8 @@ The questions are answered by a decision model reading each README, not by hand.
 | [Mark393295827/third-brain-v7-skills](https://github.com/Mark393295827/third-brain-v7-skills) | 141 | agent wiki +engineering skills | [SAFE](https://agentskillshub.top/skill/Mark393295827/third-brain-v7-skills/?utm_source=github&utm_medium=awesome-list) |
 | [psinetron/echoes-vault-codex](https://github.com/psinetron/echoes-vault-codex) | 131 | Persistent memory plugin for Codex. Obsidian-style knowledge base that survives across sessions | [SAFE](https://agentskillshub.top/skill/psinetron/echoes-vault-codex/?utm_source=github&utm_medium=awesome-list) |
 | [ctxr-dev/llm-wiki-memory](https://github.com/ctxr-dev/llm-wiki-memory) | 130 | Local, git-versioned memory for AI coding agents. No RAG, no Docker, no external service. Capture, compile, recall over a local LLM wiki with on-devi… | [SAFE](https://agentskillshub.top/skill/ctxr-dev/llm-wiki-memory/?utm_source=github&utm_medium=awesome-list) |
-| [frankchu91/mindbase](https://github.com/frankchu91/mindbase) | 126 | Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on fre… | [SAFE](https://agentskillshub.top/skill/frankchu91/mindbase/?utm_source=github&utm_medium=awesome-list) |
-| [frankchu91/mindbase-llm-wiki](https://github.com/frankchu91/mindbase-llm-wiki) | 126 | Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on fre… | [SAFE](https://agentskillshub.top/skill/frankchu91/mindbase-llm-wiki/?utm_source=github&utm_medium=awesome-list) |
+| [frankchu91/mindbase](https://github.com/frankchu91/mindbase) | 125 | Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on fre… | [SAFE](https://agentskillshub.top/skill/frankchu91/mindbase/?utm_source=github&utm_medium=awesome-list) |
+| [frankchu91/mindbase-llm-wiki](https://github.com/frankchu91/mindbase-llm-wiki) | 125 | Karpathy's LLM Wiki idea as a product — an AI that builds and maintains a markdown wiki from your notes and sources. MCP server + web UI, runs on fre… | [SAFE](https://agentskillshub.top/skill/frankchu91/mindbase-llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [NimaChu/my-wiki-skill](https://github.com/NimaChu/my-wiki-skill) | 124 | Local-first AI knowledge app and Agent Skill with evidence-backed Wiki, an interactive knowledge universe, Viki Q&A, and shareable knowledge galaxies. | [SAFE](https://agentskillshub.top/skill/NimaChu/my-wiki-skill/?utm_source=github&utm_medium=awesome-list) |
 | [praneybehl/llm-wiki-plugin](https://github.com/praneybehl/llm-wiki-plugin) | 116 | Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge ba… | [SAFE](https://agentskillshub.top/skill/praneybehl/llm-wiki-plugin/?utm_source=github&utm_medium=awesome-list) |
 | [SherwinQ/karpathy-wiki](https://github.com/SherwinQ/karpathy-wiki) | 113 | 基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。 | [SAFE](https://agentskillshub.top/skill/SherwinQ/karpathy-wiki/?utm_source=github&utm_medium=awesome-list) |
@@ -89,6 +90,7 @@ The questions are answered by a decision model reading each README, not by hand.
 | [doum1004/llmwiki-cli](https://github.com/doum1004/llmwiki-cli) | 103 | CLI tool for LLM agents to build and maintain personal knowledge bases | [SAFE](https://agentskillshub.top/skill/doum1004/llmwiki-cli/?utm_source=github&utm_medium=awesome-list) |
 | [NulightJens/ai-second-brain-skills](https://github.com/NulightJens/ai-second-brain-skills) | 100 | Two Claude Code skills for building a Karpathy-style LLM wiki — a compounding AI second brain. Install: git clone https://github.com/NulightJens/ai-s… | [SAFE](https://agentskillshub.top/skill/NulightJens/ai-second-brain-skills/?utm_source=github&utm_medium=awesome-list) |
 | [klemensgc/modular-context-obsidian-plugin](https://github.com/klemensgc/modular-context-obsidian-plugin) | 99 | Modular Context \| Karpathy LLM Knowledge Base + Gmail & G-Cal — multi-account MCP server for Claude Code, encrypted local-first | [SAFE](https://agentskillshub.top/skill/klemensgc/modular-context-obsidian-plugin/?utm_source=github&utm_medium=awesome-list) |
+| [capitalparser/notebooklm-wiki-pipeline](https://github.com/capitalparser/notebooklm-wiki-pipeline) | 94 | Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context | [SAFE](https://agentskillshub.top/skill/capitalparser/notebooklm-wiki-pipeline/?utm_source=github&utm_medium=awesome-list) |
 | [zby/commonplace](https://github.com/zby/commonplace) | 91 | The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown your agents execute. | [SAFE](https://agentskillshub.top/skill/zby/commonplace/?utm_source=github&utm_medium=awesome-list) |
 | [johnfkoo951/cmds-llm-wiki](https://github.com/johnfkoo951/cmds-llm-wiki) | 90 | LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + dual Claude Code·Codex harness (11 commands, 2 hooks, 18 web clipper t… | [SAFE](https://agentskillshub.top/skill/johnfkoo951/cmds-llm-wiki/?utm_source=github&utm_medium=awesome-list) |
 | [Lambenthan/empiricalwiki](https://github.com/Lambenthan/empiricalwiki) | 89 | 经管实证研究的 AI 知识库 — 从文献阅读到 Stata 执行，一条流水线串到底。基于 Karpathy 的 LLM-Wiki 理念，按实证研究 10 类实体（变量 / 数据集 / 模型 / 机制 / 假设 / 识别策略 / 稳健性 / 异质性 / 表格 / 论文）定制 | [SAFE](https://agentskillshub.top/skill/Lambenthan/empiricalwiki/?utm_source=github&utm_medium=awesome-list) |
@@ -161,6 +163,8 @@ The questions are answered by a decision model reading each README, not by hand.
 | [aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) | 327 | 台灣法律 MCP 伺服器 + CLI（免費、免註冊、免 API key）：2,250 萬筆裁判書、行政函釋、憲法法庭裁判，附引用查核。Free Taiwan legal MCP server for Claude/ChatGPT/Codex — bring your own LLM, retrie… | [SAFE](https://agentskillshub.top/skill/aa0101181514/tw-legal-rag/?utm_source=github&utm_medium=awesome-list) |
 | [Govcraft/rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server) | 299 | 🦀 Prevents outdated Rust code suggestions from AI assistants. This MCP server fetches current crate docs, uses embeddings/LLMs, and provides accurate… | [SAFE](https://agentskillshub.top/skill/Govcraft/rust-docs-mcp-server/?utm_source=github&utm_medium=awesome-list) |
 | [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 290 | Local RAG MCP server for Claude Code — hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers. Zero external serve… | [SAFE](https://agentskillshub.top/skill/lyonzin/knowledge-rag/?utm_source=github&utm_medium=awesome-list) |
+| [asgard-ai-platform/skills](https://github.com/asgard-ai-platform/skills) | 239 | 301 open-source coding agent skills across 22 domains — methodology, judgment & gotchas packaged as Claude Agent Skills for the Asgard AI Platform. | [SAFE](https://agentskillshub.top/skill/asgard-ai-platform/skills/?utm_source=github&utm_medium=awesome-list) |
+| [MLT-OSS/FirstData](https://github.com/MLT-OSS/FirstData) | 183 | The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base | [SAFE](https://agentskillshub.top/skill/MLT-OSS/FirstData/?utm_source=github&utm_medium=awesome-list) |
 | [ascend-ai-coding/awesome-ascend-skills](https://github.com/ascend-ai-coding/awesome-ascend-skills) | 174 | A comprehensive knowledge base for Huawei Ascend NPU development, structured as distributed Agent Skills. https://ascend-ai-coding.github.io/awesome-… | [SAFE](https://agentskillshub.top/skill/ascend-ai-coding/awesome-ascend-skills/?utm_source=github&utm_medium=awesome-list) |
 | [andylow92/file-system-brain-mcp](https://github.com/andylow92/file-system-brain-mcp) | 168 | Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MC… | [SAFE](https://agentskillshub.top/skill/andylow92/file-system-brain-mcp/?utm_source=github&utm_medium=awesome-list) |
 | [andylow92/file-system-like-github](https://github.com/andylow92/file-system-like-github) | 168 | Self-improving, AI-native markdown vault you hand to an AI agent. GitHub-style file tree + Notion editing, exposed to Claude/Cursor via a built-in MC… | [SAFE](https://agentskillshub.top/skill/andylow92/file-system-like-github/?utm_source=github&utm_medium=awesome-list) |
@@ -327,4 +331,4 @@ Open an issue with the GitHub URL. It goes through the same review as every entr
 
 ---
 
-Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-10-03.
+Machine-readable copy: [`data/skills.json`](data/skills.json). Generated 2026-10-04.
