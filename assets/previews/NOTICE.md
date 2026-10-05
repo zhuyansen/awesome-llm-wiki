@@ -6,4 +6,6 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `evergreen-it-dev__folio.jpg` | [evergreen-it-dev/folio](https://github.com/evergreen-it-dev/folio) | MIT | [source](https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png) |
+| `ismailperim__briefd.gif` | [ismailperim/briefd](https://github.com/ismailperim/briefd) | Apache-2.0 | [source](https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif) |
 | `MrDoe__OpenCodeRAG.jpg` | [MrDoe/OpenCodeRAG](https://github.com/MrDoe/OpenCodeRAG) | MIT | [source](https://raw.githubusercontent.com/MrDoe/OpenCodeRAG/HEAD/doc/assets/webui-3d.png) |

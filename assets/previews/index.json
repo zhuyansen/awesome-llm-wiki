@@ -8,5 +8,25 @@
   "bytes": 238667,
   "file": "MrDoe__OpenCodeRAG.jpg",
   "still": "MrDoe__OpenCodeRAG.jpg"
+ },
+ "evergreen-it-dev/folio": {
+  "repo": "evergreen-it-dev/folio",
+  "url": "https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png",
+  "alt": "A PDF previewed inside Folio",
+  "score": 1.5,
+  "type": "image/png",
+  "bytes": 435832,
+  "file": "evergreen-it-dev__folio.jpg",
+  "still": "evergreen-it-dev__folio.jpg"
+ },
+ "ismailperim/briefd": {
+  "repo": "ismailperim/briefd",
+  "url": "https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif",
+  "alt": "Today: CLAUDE.md is re-sent on every turn. With briefd: one compile_bundle call ",
+  "score": 4.55,
+  "type": "image/gif",
+  "bytes": 824750,
+  "file": "ismailperim__briefd.gif",
+  "still": "ismailperim__briefd.jpg"
  }
 }
