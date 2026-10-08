@@ -28,5 +28,25 @@
   "bytes": 824750,
   "file": "ismailperim__briefd.gif",
   "still": "ismailperim__briefd.jpg"
+ },
+ "kiycoh/silica-core": {
+  "repo": "kiycoh/silica-core",
+  "url": "https://raw.githubusercontent.com/kiycoh/silica-core/main/assets/quickstart.gif",
+  "alt": "the quickstart recorded end to end: uv tool install, silica-core init reporting ",
+  "score": 0.35,
+  "type": "image/gif",
+  "bytes": 1511071,
+  "file": "kiycoh__silica-core.gif",
+  "still": "kiycoh__silica-core.jpg"
+ },
+ "mhmtsrfglu/superwiki": {
+  "repo": "mhmtsrfglu/superwiki",
+  "url": "https://raw.githubusercontent.com/mhmtsrfglu/superwiki/HEAD/assets/viewer-waves-light.png",
+  "alt": "The Superwiki viewer: task counts per area, filters, and the dependency board wi",
+  "score": -2.5,
+  "type": "image/png",
+  "bytes": 277600,
+  "file": "mhmtsrfglu__superwiki.jpg",
+  "still": "mhmtsrfglu__superwiki.jpg"
  }
 }
