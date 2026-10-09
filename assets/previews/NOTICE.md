@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
 | `evergreen-it-dev__folio.jpg` | [evergreen-it-dev/folio](https://github.com/evergreen-it-dev/folio) | MIT | [source](https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png) |
 | `ismailperim__briefd.gif` | [ismailperim/briefd](https://github.com/ismailperim/briefd) | Apache-2.0 | [source](https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif) |
 | `kiycoh__silica-core.gif` | [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | MIT | [source](https://raw.githubusercontent.com/kiycoh/silica-core/main/assets/quickstart.gif) |
