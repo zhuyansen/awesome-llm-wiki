@@ -39,6 +39,16 @@
   "file": "ismailperim__briefd.gif",
   "still": "ismailperim__briefd.jpg"
  },
+ "junruxiong/IncarnaMind": {
+  "repo": "junruxiong/IncarnaMind",
+  "url": "https://raw.githubusercontent.com/junruxiong/IncarnaMind/HEAD/docs/images/demo.gif",
+  "alt": "Nine screens in turn: pointing at a Citation shows its quote; opening it shows t",
+  "score": 4.85,
+  "type": "image/gif",
+  "bytes": 1606858,
+  "file": "junruxiong__IncarnaMind.gif",
+  "still": "junruxiong__IncarnaMind.jpg"
+ },
  "kiycoh/silica-core": {
   "repo": "kiycoh/silica-core",
   "url": "https://raw.githubusercontent.com/kiycoh/silica-core/main/assets/quickstart.gif",
