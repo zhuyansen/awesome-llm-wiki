@@ -9,6 +9,16 @@
   "file": "BingoWon__apple-rag-mcp.jpg",
   "still": "BingoWon__apple-rag-mcp.jpg"
  },
+ "HagaiHen/podcast-wiki": {
+  "repo": "HagaiHen/podcast-wiki",
+  "url": "https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif",
+  "alt": "Podcast Wiki promo, 30s",
+  "score": 5.0,
+  "type": "image/gif",
+  "bytes": 3933836,
+  "file": "HagaiHen__podcast-wiki.gif",
+  "still": "HagaiHen__podcast-wiki.jpg"
+ },
  "MrDoe/OpenCodeRAG": {
   "repo": "MrDoe/OpenCodeRAG",
   "url": "https://raw.githubusercontent.com/MrDoe/OpenCodeRAG/HEAD/doc/assets/webui-3d.png",
@@ -68,5 +78,15 @@
   "bytes": 277600,
   "file": "mhmtsrfglu__superwiki.jpg",
   "still": "mhmtsrfglu__superwiki.jpg"
+ },
+ "wenlan-app/wenlan": {
+  "repo": "wenlan-app/wenlan",
+  "url": "https://raw.githubusercontent.com/wenlan-app/wenlan/HEAD/docs/assets/wenlan-knowledge-network.png",
+  "alt": "Illustrative Agent Loop page citing an agent-design guide and UI-review note; na",
+  "score": -0.25,
+  "type": "image/png",
+  "bytes": 201130,
+  "file": "wenlan-app__wenlan.jpg",
+  "still": "wenlan-app__wenlan.jpg"
  }
 }
