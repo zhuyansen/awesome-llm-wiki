@@ -29,6 +29,16 @@
   "file": "MrDoe__OpenCodeRAG.jpg",
   "still": "MrDoe__OpenCodeRAG.jpg"
  },
+ "alex09x/kyb": {
+  "repo": "alex09x/kyb",
+  "url": "https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png",
+  "alt": "KYB architecture: AI agents, Rust server, Git history and derived BM25 plus opti",
+  "score": -2.9,
+  "type": "image/png",
+  "bytes": 1633907,
+  "file": "alex09x__kyb.jpg",
+  "still": "alex09x__kyb.jpg"
+ },
  "evergreen-it-dev/folio": {
   "repo": "evergreen-it-dev/folio",
   "url": "https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png",

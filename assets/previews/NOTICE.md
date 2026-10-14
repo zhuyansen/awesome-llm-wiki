@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `alex09x__kyb.jpg` | [alex09x/kyb](https://github.com/alex09x/kyb) | MIT | [source](https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png) |
 | `BingoWon__apple-rag-mcp.jpg` | [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | MIT | [source](https://apple-rag.com/og-image-jev.png) |
 | `evergreen-it-dev__folio.jpg` | [evergreen-it-dev/folio](https://github.com/evergreen-it-dev/folio) | MIT | [source](https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png) |
 | `HagaiHen__podcast-wiki.gif` | [HagaiHen/podcast-wiki](https://github.com/HagaiHen/podcast-wiki) | MIT | [source](https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif) |
