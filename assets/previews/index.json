@@ -98,5 +98,15 @@
   "bytes": 201130,
   "file": "wenlan-app__wenlan.jpg",
   "still": "wenlan-app__wenlan.jpg"
+ },
+ "xerj-org/xerj": {
+  "repo": "xerj-org/xerj",
+  "url": "https://raw.githubusercontent.com/xerj-org/xerj/HEAD/docs/media/demo-poster.png",
+  "alt": "Watch the XERJ demo: boot, ingest, search, vectors, dashboards",
+  "score": -1.45,
+  "type": "image/png",
+  "bytes": 522783,
+  "file": "xerj-org__xerj.jpg",
+  "still": "xerj-org__xerj.jpg"
  }
 }
