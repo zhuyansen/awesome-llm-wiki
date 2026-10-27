@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26",
+ "generated": "2026-10-27",
  "source": "https://agentskillshub.top/best/knowledge-base/",
  "kinds": [
   {
@@ -43,7 +43,7 @@
   {
    "repo_full_name": "volcengine/OpenViking",
    "path": null,
-   "stars": 40868,
+   "stars": 40949,
    "description": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -53,7 +53,7 @@
   {
    "repo_full_name": "nashsu/llm_wiki",
    "path": null,
-   "stars": 20990,
+   "stars": 21022,
    "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -63,7 +63,7 @@
   {
    "repo_full_name": "AsyncFuncAI/deepwiki-open",
    "path": null,
-   "stars": 18280,
+   "stars": 18298,
    "description": "Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -73,7 +73,7 @@
   {
    "repo_full_name": "langchain-ai/openwiki",
    "path": null,
-   "stars": 17455,
+   "stars": 17501,
    "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -83,7 +83,7 @@
   {
    "repo_full_name": "AgriciDaniel/claude-obsidian",
    "path": null,
-   "stars": 15841,
+   "stars": 15877,
    "description": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -93,7 +93,7 @@
   {
    "repo_full_name": "eugeniughelbur/obsidian-second-brain",
    "path": null,
-   "stars": 4936,
+   "stars": 4970,
    "description": "Persistent memory for Claude Code, Codex and 6 other AI agents, stored as plain markdown in your Obsidian vault. New: Crew, one shared logbook so Claude Code, Codex, Cursor and Grok Bot know what each other did. 48 commands: semantic search, self-rewriting notes, key-less research, scheduled agents.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -103,7 +103,7 @@
   {
    "repo_full_name": "agentscope-ai/ReMe",
    "path": null,
-   "stars": 3692,
+   "stars": 3701,
    "description": "ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -113,7 +113,7 @@
   {
    "repo_full_name": "SamurAIGPT/llm-wiki-agent",
    "path": null,
-   "stars": 3654,
+   "stars": 3658,
    "description": "A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -123,7 +123,7 @@
   {
    "repo_full_name": "Ar9av/obsidian-wiki",
    "path": null,
-   "stars": 3623,
+   "stars": 3625,
    "description": "Framework for AI agents to build and maintain a digital brain through Obsidian wiki | Memory System for Agents",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -133,7 +133,7 @@
   {
    "repo_full_name": "agenticnotetaking/arscontexta",
    "path": null,
-   "stars": 3511,
+   "stars": 3513,
    "description": "Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -143,7 +143,7 @@
   {
    "repo_full_name": "Astro-Han/karpathy-llm-wiki",
    "path": null,
-   "stars": 2606,
+   "stars": 2615,
    "description": "Agent Skills-compatible LLM wiki for Claude Code, Cursor, and Codex. Build a Karpathy-style knowledge base from raw sources, citations, and linting.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -153,7 +153,7 @@
   {
    "repo_full_name": "atomicstrata/llm-wiki-compiler",
    "path": null,
-   "stars": 2217,
+   "stars": 2218,
    "description": "The knowledge compiler. Raw sources in, interlinked wiki out. Inspired by Karpathy's LLM Wiki pattern.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -163,7 +163,7 @@
   {
    "repo_full_name": "lucasastorian/llmwiki",
    "path": null,
-   "stars": 1719,
+   "stars": 1721,
    "description": "Open Source Implementation of Karpathy's LLM Wiki. Upload documents, connect your Claude account via MCP, and have it write your wiki ! ",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -173,7 +173,7 @@
   {
    "repo_full_name": "axoviq-ai/synthadoc",
    "path": null,
-   "stars": 1572,
+   "stars": 1576,
    "description": "Synthadoc: An open-source LLM knowledge compilation engine that turns raw documents into structured, local-first wikis. A transparent, human-readable alternative to traditional RAG, which can be self-managed and self-improved without the use of any tools.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -193,7 +193,7 @@
   {
    "repo_full_name": "nvk/llm-wiki",
    "path": null,
-   "stars": 1464,
+   "stars": 1467,
    "description": "LLM-compiled knowledge bases for any AI agent. Parallel multi-agent research, thesis-driven investigation, source ingestion, wiki compilation, querying, and artifact generation. ",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -203,7 +203,7 @@
   {
    "repo_full_name": "coleam00/claude-memory-compiler",
    "path": null,
-   "stars": 1308,
+   "stars": 1309,
    "description": "Give Claude Code a memory that evolves with your codebase. Hooks automatically capture sessions, the Claude Agent SDK extracts key decisions and lessons, and an LLM compiler organizes everything into structured, cross-referenced knowledge articles - inspired by Karpathy's LLM Knowledge Base architecture.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -213,7 +213,7 @@
   {
    "repo_full_name": "undefined-ui/second-brain-os",
    "path": null,
-   "stars": 1126,
+   "stars": 1136,
    "description": "An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -233,7 +233,7 @@
   {
    "repo_full_name": "kytmanov/obsidian-llm-wiki-local",
    "path": null,
-   "stars": 842,
+   "stars": 843,
    "description": "Karpathy’s LLM Wiki, 100% local with Ollama. Drop Markdown notes → AI extracts concepts → your Obsidian wiki auto-links and grows. Zero sharing. Your notes stay yours.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -243,7 +243,7 @@
   {
    "repo_full_name": "NicholasSpisak/second-brain",
    "path": null,
-   "stars": 760,
+   "stars": 762,
    "description": "LLM-maintained personal knowledge base for Obsidian. Based on Andrej Karpathy's LLM Wiki pattern.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -253,7 +253,7 @@
   {
    "repo_full_name": "swarmclawai/swarmvault",
    "path": null,
-   "stars": 729,
+   "stars": 731,
    "description": "The local-first LLM Wiki: open-source knowledge graph builder, RAG knowledge base, and agent memory store. Built on Andrej Karpathy's pattern. An Obsidian alternative for personal knowledge management, AI second brain, and durable Claude Code / Codex / OpenClaw memory.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -263,7 +263,7 @@
   {
    "repo_full_name": "lewislulu/llm-wiki-skill",
    "path": null,
-   "stars": 656,
+   "stars": 655,
    "description": "Karpathy-style LLM knowledge base Agent Skill for OpenClaw/Codex. Experimental — will iterate over time.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -293,7 +293,7 @@
   {
    "repo_full_name": "zosmaai/pi-llm-wiki",
    "path": null,
-   "stars": 615,
+   "stars": 616,
    "description": "Self-maintaining, Obsidian-compatible knowledge base for pi — turn raw sources into an interlinked wiki that compounds. Native Open Knowledge Format (OKF) v0.2.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -323,7 +323,7 @@
   {
    "repo_full_name": "gatelynch/llm-knowledge-base",
    "path": null,
-   "stars": 339,
+   "stars": 340,
    "description": "參考自Andrej Kapathy的llm-wiki概念，把原始素材、LLM 編譯後的知識、   探索中的思考，以及最終作品明確分層管理   的個人知識庫系統。",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -461,6 +461,16 @@
    "license": null
   },
   {
+   "repo_full_name": "PieroSierra/SecondBrain",
+   "path": null,
+   "stars": 157,
+   "description": "A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code slash commands or a local web dashboard.",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
+  },
+  {
    "repo_full_name": "liangdabiao/llm-wiki",
    "path": null,
    "stars": 157,
@@ -468,16 +478,6 @@
    "kind": "llm_wiki",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": null
-  },
-  {
-   "repo_full_name": "PieroSierra/SecondBrain",
-   "path": null,
-   "stars": 156,
-   "description": "A personal knowledge base that lives in this folder. Drop content in, have it organized automatically, ask questions, and get sourced answers — either through Claude Code slash commands or a local web dashboard.",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "Python",
    "license": null
   },
   {
@@ -573,7 +573,7 @@
   {
    "repo_full_name": "praneybehl/llm-wiki-plugin",
    "path": null,
-   "stars": 122,
+   "stars": 123,
    "description": "Andrej Karpathy's LLM Wiki pattern as a skill & Claude Code plugin — turn accumulated sources into a self-maintaining, scalable markdown knowledge base.",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -613,7 +613,7 @@
   {
    "repo_full_name": "SherwinQ/karpathy-wiki",
    "path": null,
-   "stars": 114,
+   "stars": 115,
    "description": "基于 [Andrej Karpathy]提出的 [LLM Wiki 模式]构建的 Agent Skill，通过四阶段流水线将碎片化信息转化为结构化、可检索、持续增长的个人知识库。",
    "kind": "llm_wiki",
    "security_grade": "safe",
@@ -681,16 +681,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "johnfkoo951/cmds-llm-wiki",
-   "path": null,
-   "stars": 100,
-   "description": "LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + dual Claude Code·Codex harness (11 commands, 2 hooks, 18 web clipper templates)",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": null
-  },
-  {
    "repo_full_name": "songs-aaa/shared-memory-vault",
    "path": null,
    "stars": 100,
@@ -699,6 +689,16 @@
    "security_grade": "safe",
    "language": null,
    "license": "MIT"
+  },
+  {
+   "repo_full_name": "johnfkoo951/cmds-llm-wiki",
+   "path": null,
+   "stars": 99,
+   "description": "LLM Wiki template — Karpathy 3-layer pattern + Gold In Gold Out purpose gate + dual Claude Code·Codex harness (11 commands, 2 hooks, 18 web clipper templates)",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": null
   },
   {
    "repo_full_name": "klemensgc/modular-context-obsidian-plugin",
@@ -715,6 +715,16 @@
    "path": null,
    "stars": 96,
    "description": "经管实证研究的 AI 知识库 — 从文献阅读到 Stata 执行，一条流水线串到底。基于 Karpathy 的 LLM-Wiki 理念，按实证研究 10 类实体（变量 / 数据集 / 模型 / 机制 / 假设 / 识别策略 / 稳健性 / 异质性 / 表格 / 论文）定制",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "Python",
+   "license": "MIT"
+  },
+  {
+   "repo_full_name": "capitalparser/notebooklm-wiki-pipeline",
+   "path": null,
+   "stars": 96,
+   "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
    "kind": "llm_wiki",
    "security_grade": "safe",
    "language": "Python",
@@ -741,14 +751,14 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "capitalparser/notebooklm-wiki-pipeline",
+   "repo_full_name": "zby/commonplace",
    "path": null,
-   "stars": 95,
-   "description": "Turn Google Drive PDFs into Obsidian wiki notes via NotebookLM MCP without loading full PDFs into Claude context",
+   "stars": 92,
+   "description": "The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown your agents execute.",
    "kind": "llm_wiki",
    "security_grade": "safe",
    "language": "Python",
-   "license": "MIT"
+   "license": "CC-BY-4.0"
   },
   {
    "repo_full_name": "skindhu/claude-deep-wiki",
@@ -761,16 +771,6 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "zby/commonplace",
-   "path": null,
-   "stars": 91,
-   "description": "The theory of LLM wikis, running as one. A framework for agent-operated knowledge: typed, linked, review-gated markdown your agents execute.",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "Python",
-   "license": "CC-BY-4.0"
-  },
-  {
    "repo_full_name": "wenlan-app/wenlan",
    "path": null,
    "stars": 86,
@@ -781,6 +781,16 @@
    "license": "Apache-2.0"
   },
   {
+   "repo_full_name": "zcag/tela",
+   "path": null,
+   "stars": 86,
+   "description": "Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "Go",
+   "license": "AGPL-3.0"
+  },
+  {
    "repo_full_name": "owenliang/llm-wiki",
    "path": null,
    "stars": 85,
@@ -789,16 +799,6 @@
    "security_grade": "safe",
    "language": null,
    "license": null
-  },
-  {
-   "repo_full_name": "zcag/tela",
-   "path": null,
-   "stars": 85,
-   "description": "Open-source, self-hostable markdown team wiki with a built-in MCP server — so AI agents read, write, and search your docs as first-class teammates. Live multiplayer, semantic + full-text search. Go + PostgreSQL + React/Milkdown.",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "Go",
-   "license": "AGPL-3.0"
   },
   {
    "repo_full_name": "fivetaku/llm-wiki",
@@ -841,24 +841,24 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "evergreen-it-dev/folio",
-   "path": null,
-   "stars": 79,
-   "description": "The AI-assisted, open-source alternative to Notion and Confluence: a team wiki that lives in Git, with real-time editing, data tables, whiteboards, offline mode, and first-class AI agents. Live demo: https://demo.foliowiki.online",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
    "repo_full_name": "tuirk/Kompl",
    "path": null,
-   "stars": 79,
+   "stars": 81,
    "description": "A compounding LLM-wiki, best fit as a personal second brain that organizes and updates itself as it grows, zero upkeep.",
    "kind": "llm_wiki",
    "security_grade": "caution",
    "language": "TypeScript",
    "license": "Apache-2.0"
+  },
+  {
+   "repo_full_name": "evergreen-it-dev/folio",
+   "path": null,
+   "stars": 80,
+   "description": "The AI-assisted, open-source alternative to Notion and Confluence: a team wiki that lives in Git, with real-time editing, data tables, whiteboards, offline mode, and first-class AI agents. Live demo: https://demo.foliowiki.online",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "MIT"
   },
   {
    "repo_full_name": "moonlarry/awesome-llm-paper-wiki",
@@ -971,6 +971,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "tashisleepy/knowledge-engine",
+   "path": null,
+   "stars": 67,
+   "description": "The bridge between human-readable wikis and machine-speed memory. Built on Karpathys LLM Wiki pattern + Memvid.",
+   "kind": "llm_wiki",
+   "security_grade": "safe",
+   "language": "HTML",
+   "license": "MIT"
+  },
+  {
    "repo_full_name": "ddsyasas/llm-wiki",
    "path": null,
    "stars": 66,
@@ -978,16 +988,6 @@
    "kind": "llm_wiki",
    "security_grade": "safe",
    "language": "TypeScript",
-   "license": "MIT"
-  },
-  {
-   "repo_full_name": "tashisleepy/knowledge-engine",
-   "path": null,
-   "stars": 66,
-   "description": "The bridge between human-readable wikis and machine-speed memory. Built on Karpathys LLM Wiki pattern + Memvid.",
-   "kind": "llm_wiki",
-   "security_grade": "safe",
-   "language": "HTML",
    "license": "MIT"
   },
   {
@@ -1223,7 +1223,7 @@
   {
    "repo_full_name": "infiniflow/ragflow",
    "path": null,
-   "stars": 92895,
+   "stars": 92960,
    "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1233,7 +1233,7 @@
   {
    "repo_full_name": "chatchat-space/Langchain-Chatchat",
    "path": null,
-   "stars": 38706,
+   "stars": 38709,
    "description": "Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 Agent 应用 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM, Qwen and Llama) RAG and Agent app with langchain ",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1243,7 +1243,7 @@
   {
    "repo_full_name": "Tencent/WeKnora",
    "path": null,
-   "stars": 35514,
+   "stars": 35632,
    "description": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1253,7 +1253,7 @@
   {
    "repo_full_name": "1Panel-dev/MaxKB",
    "path": null,
-   "stars": 23039,
+   "stars": 23050,
    "description": "🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1263,7 +1263,7 @@
   {
    "repo_full_name": "airweave-ai/airweave",
    "path": null,
-   "stars": 6551,
+   "stars": 6552,
    "description": "Open-source context retrieval layer for AI agents",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1273,7 +1273,7 @@
   {
    "repo_full_name": "Zleap-AI/SAG",
    "path": null,
-   "stars": 2637,
+   "stars": 2638,
    "description": "A new SOTA for RAG — an original retrieval architecture and an open-source knowledge base for humans and agents.",
    "kind": "rag_platform",
    "security_grade": "safe",
@@ -1443,7 +1443,7 @@
   {
    "repo_full_name": "xerj-org/xerj",
    "path": null,
-   "stars": 15758,
+   "stars": 16995,
    "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1453,7 +1453,7 @@
   {
    "repo_full_name": "zilliztech/memsearch",
    "path": null,
-   "stars": 2797,
+   "stars": 2799,
    "description": "A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex, DSH), backed by Markdown and Milvus.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1473,7 +1473,7 @@
   {
    "repo_full_name": "MicrosoftDocs/mcp",
    "path": null,
-   "stars": 1954,
+   "stars": 1956,
    "description": "Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1483,7 +1483,7 @@
   {
    "repo_full_name": "aakarim/OpenLore",
    "path": null,
-   "stars": 1731,
+   "stars": 1729,
    "description": "A minimal, extensible, agent-native knowledge repository that keeps shared context current and inspectable",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1513,7 +1513,7 @@
   {
    "repo_full_name": "chubbyguan/chubbyskills",
    "path": null,
-   "stars": 1280,
+   "stars": 1284,
    "description": "把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, feed subscriptions with daily digests, and a KB MCP server.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1523,7 +1523,7 @@
   {
    "repo_full_name": "0xranx/OpenContext",
    "path": null,
-   "stars": 1270,
+   "stars": 1271,
    "description": "A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1533,7 +1533,7 @@
   {
    "repo_full_name": "jerry-ai-dev/MODULAR-RAG-MCP-SERVER",
    "path": null,
-   "stars": 1188,
+   "stars": 1191,
    "description": "A modular RAG (Retrieval-Augmented Generation) system with MCP Server architecture. Using Skill to make AI follow each step of the spec and complete the code 100% by AI.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1553,7 +1553,7 @@
   {
    "repo_full_name": "0xK3vin/MegaMemory",
    "path": null,
-   "stars": 727,
+   "stars": 729,
    "description": "Persistent project knowledge graph for coding agents. MCP server with semantic search, in-process embeddings, and web explorer.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1573,7 +1573,7 @@
   {
    "repo_full_name": "GeminiLight/MindOS",
    "path": null,
-   "stars": 678,
+   "stars": 679,
    "description": "MindOS is a Human-AI Collaborative Mind System, where human thinks and agents act. Globally sync your mind for all agents: transparent, controllable, and evolving symbiotically.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1603,7 +1603,7 @@
   {
    "repo_full_name": "shinpr/mcp-local-rag",
    "path": null,
-   "stars": 424,
+   "stars": 425,
    "description": "Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1633,7 +1633,7 @@
   {
    "repo_full_name": "andrea9293/mcp-documentation-server",
    "path": null,
-   "stars": 342,
+   "stars": 343,
    "description": "MCP Documentation Server - Bridge the AI Knowledge Gap.  ✨ Features: Document management • Gemini integration • AI-powered semantic search • File uploads • Smart chunking • Multilingual support • Zero-setup  🎯 Perfect for: New frameworks • API docs • Internal guides ",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1653,7 +1653,7 @@
   {
    "repo_full_name": "nameforjt-afk/session-knowledge",
    "path": null,
-   "stars": 305,
+   "stars": 306,
    "description": "Turn your Claude Code session history into a searchable local knowledge base — 13 MCP tools, pure stdlib, nothing leaves your machine",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1763,7 +1763,7 @@
   {
    "repo_full_name": "jztan/pdf-mcp",
    "path": null,
-   "stars": 157,
+   "stars": 160,
    "description": "MCP server that lets Claude Code and other AI agents read and search large PDFs, one file or a whole folder: agentic RAG with hybrid semantic + keyword search, selective page reads, tables, images, OCR, chart data, and multi-column/CJK layouts.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -1973,7 +1973,7 @@
   {
    "repo_full_name": "liangdabiao/deepseek-v4-flash-vision-video-rag",
    "path": null,
-   "stars": 69,
+   "stars": 70,
    "description": "DeepSeek V4-Flash Vision Video RAG 让 AI 真正\"看懂\" 一段视频，然后你对它提问：它告诉你答案、答案发生在 第几分几秒，并切出那一段的可播放片段和关键帧给你核对。  基于 DeepSeek 视觉大模型 deepseek-v4-flash-vision-exp 的视频理解与问答 （video RAG）agent skill。先按时间轴抽帧阅读、建立索引（一次性），再对问题做 本地粗筛 → 视觉精排 → 深读回答；回答带 [MM:SS] 时间戳引用，自动生成 自包含 HTML 预览页（内嵌可播放片段 + 关键帧 + 答案），双击浏览器即看。",
    "kind": "mcp",
    "security_grade": "safe",
@@ -2041,20 +2041,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "msdanyg/smart-connections-mcp",
+   "repo_full_name": "MrDoe/OpenCodeRAG",
    "path": null,
    "stars": 59,
-   "description": "Give Claude semantic memory of your Obsidian vault — local semantic search over Smart Connections embeddings via MCP. Multi-vault, block-level, 100% private.",
+   "description": "OpenCodeRAG is a RAG (Retrieval-Augmented Generation) plugin for semantic code search powered by locally-hosted embedding models. It features a seamless integration with OpenCode and other AI tools via MCP and offers a CLI interface for external usage. It offers hybrid search, image description, persistent memory and local decision model usage.",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "TypeScript",
    "license": "MIT"
   },
   {
-   "repo_full_name": "MrDoe/OpenCodeRAG",
+   "repo_full_name": "msdanyg/smart-connections-mcp",
    "path": null,
-   "stars": 58,
-   "description": "OpenCodeRAG is a RAG (Retrieval-Augmented Generation) plugin for semantic code search powered by locally-hosted embedding models. It features a seamless integration with OpenCode and other AI tools via MCP and offers a CLI interface for external usage. It offers hybrid search, image description, persistent memory and local decision model usage.",
+   "stars": 59,
+   "description": "Give Claude semantic memory of your Obsidian vault — local semantic search over Smart Connections embeddings via MCP. Multi-vault, block-level, 100% private.",
    "kind": "mcp",
    "security_grade": "safe",
    "language": "TypeScript",
@@ -2123,7 +2123,7 @@
   {
    "repo_full_name": "wgpsec/context1337",
    "path": null,
-   "stars": 38,
+   "stars": 39,
    "description": "aboutSecurity project skill finder / dict finder / exp finder, auto suggest and team knowledge base.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -2153,7 +2153,7 @@
   {
    "repo_full_name": "agent-accessibility/KMCP",
    "path": null,
-   "stars": 12,
+   "stars": 13,
    "description": "Open-source MCP server for your docs. Zero LLM at query time. docker compose up and go.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -2183,7 +2183,7 @@
   {
    "repo_full_name": "AlexanderAbramovPav/youtube-advisor",
    "path": null,
-   "stars": 9,
+   "stars": 10,
    "description": "Build an AI advisor SKILL from any YouTube channel — transcripts, BM25 + semantic RAG, verbatim quotes with timestamps.",
    "kind": "mcp",
    "security_grade": "safe",
@@ -2213,7 +2213,7 @@
   {
    "repo_full_name": "virgiliojr94/book-to-skill",
    "path": null,
-   "stars": 36154,
+   "stars": 36254,
    "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
    "kind": "docs_qa",
    "security_grade": "safe",
@@ -2223,7 +2223,7 @@
   {
    "repo_full_name": "decodingai-magazine/second-brain-ai-assistant-course",
    "path": null,
-   "stars": 3127,
+   "stars": 3128,
    "description": "Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques.",
    "kind": "docs_qa",
    "security_grade": "safe",
@@ -2254,7 +2254,7 @@
    "repo_full_name": "junruxiong/IncarnaMind",
    "path": null,
    "stars": 847,
-   "description": "An AI editor. Every AI content shows the page it came from and highlights the quote. Free, open-source desktop app for Mac, Windows and Linux: check your own drafts against your documents, take meeting notes on your computer. Works with ChatGPT, Claude, Gemini or Ollama. A NotebookLM alternative.",
+   "description": "From messy files to a checked report. A free, open-source desktop app for macOS, Windows and Linux: write and analyse with AI from your own files, check each sentence and figure against them, and export to Word. Meeting notes too. Works with ChatGPT, Claude, Gemini or a local model through Ollama.",
    "kind": "docs_qa",
    "security_grade": "safe",
    "language": "TypeScript",
@@ -2273,7 +2273,7 @@
   {
    "repo_full_name": "ggozad/haiku.rag",
    "path": null,
-   "stars": 636,
+   "stars": 639,
    "description": "Agentic RAG for local and self-hosted document search: hybrid retrieval, reranking and multimodal RAG on embedded LanceDB, with Docling parsing and an MCP server",
    "kind": "docs_qa",
    "security_grade": "safe",
@@ -2293,7 +2293,7 @@
   {
    "repo_full_name": "Ayanami0730/arag",
    "path": null,
-   "stars": 362,
+   "stars": 363,
    "description": "A-RAG: Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces. State-of-the-art RAG framework with keyword, semantic, and chunk read tools for multi-hop QA.",
    "kind": "docs_qa",
    "security_grade": "safe",
@@ -2364,7 +2364,7 @@
    "repo_full_name": "Francis1998/scholar-rag-agent",
    "path": null,
    "stars": 149,
-   "description": "Local-first scientific-literature RAG with a script-free saved-run browser, frozen evidence, and reproducible offline research workflows.",
+   "description": "Local-first scientific literature RAG with frozen evidence, exact human annotations, paper screening, and reproducible offline workflows.",
    "kind": "docs_qa",
    "security_grade": "safe",
    "language": "Python",
@@ -2421,6 +2421,16 @@
    "license": "MIT"
   },
   {
+   "repo_full_name": "Soren-ABT/dsh-knowledge",
+   "path": null,
+   "stars": 86,
+   "description": "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel",
+   "kind": "docs_qa",
+   "security_grade": "safe",
+   "language": "TypeScript",
+   "license": "AGPL-3.0"
+  },
+  {
    "repo_full_name": "georgesung/LLM-WikipediaQA",
    "path": null,
    "stars": 85,
@@ -2439,16 +2449,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": null
-  },
-  {
-   "repo_full_name": "Soren-ABT/dsh-knowledge",
-   "path": null,
-   "stars": 83,
-   "description": "Knowledge base & RAG plugin for DeepSeek Harness (DSH): chunking, local embeddings, hybrid search, management panel",
-   "kind": "docs_qa",
-   "security_grade": "safe",
-   "language": "TypeScript",
-   "license": "AGPL-3.0"
   },
   {
    "repo_full_name": "kevins981/Socratic",
@@ -2531,20 +2531,20 @@
    "license": "MIT"
   },
   {
-   "repo_full_name": "AkiRusProd/llm-agent",
+   "repo_full_name": "Azure-Samples/adaptive-rag-workbench",
    "path": null,
-   "stars": 55,
-   "description": "LLM using long-term memory through vector database",
+   "stars": 56,
+   "description": "Sample for context-aware Agentic RaG, Q&A with multi-source verification, and self-curating knowledge base. Powered by Azure AI Foundry Agent Service, Azure AI Search with agentic retrieval and query rewrite, Semantic Kernel and LangGraph agents running in Azure Container Apps, and ready for Copilot Studio",
    "kind": "docs_qa",
    "security_grade": "safe",
    "language": "Python",
    "license": null
   },
   {
-   "repo_full_name": "Azure-Samples/adaptive-rag-workbench",
+   "repo_full_name": "AkiRusProd/llm-agent",
    "path": null,
    "stars": 55,
-   "description": "Sample for context-aware Agentic RaG, Q&A with multi-source verification, and self-curating knowledge base. Powered by Azure AI Foundry Agent Service, Azure AI Search with agentic retrieval and query rewrite, Semantic Kernel and LangGraph agents running in Azure Container Apps, and ready for Copilot Studio",
+   "description": "LLM using long-term memory through vector database",
    "kind": "docs_qa",
    "security_grade": "safe",
    "language": "Python",
@@ -2593,7 +2593,7 @@
   {
    "repo_full_name": "colbymchenry/codegraph",
    "path": null,
-   "stars": 75402,
+   "stars": 75574,
    "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
    "kind": "graph",
    "security_grade": "safe",
@@ -2603,7 +2603,7 @@
   {
    "repo_full_name": "HKUDS/LightRAG",
    "path": null,
-   "stars": 40344,
+   "stars": 40366,
    "description": "[EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation",
    "kind": "graph",
    "security_grade": "safe",
@@ -2613,7 +2613,7 @@
   {
    "repo_full_name": "topoteretes/cognee",
    "path": null,
-   "stars": 32773,
+   "stars": 32806,
    "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory with small models for free",
    "kind": "graph",
    "security_grade": "safe",
@@ -2623,7 +2623,7 @@
   {
    "repo_full_name": "OpenSPG/KAG",
    "path": null,
-   "stars": 9123,
+   "stars": 9128,
    "description": "KAG is a logical form-guided reasoning and retrieval framework based on OpenSPG engine and LLMs.  It is used to build logical reasoning and factual Q&A solutions for professional domain knowledge bases. It can effectively overcome the shortcomings of the traditional RAG vector similarity calculation model.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2633,7 +2633,7 @@
   {
    "repo_full_name": "xerrors/Yuxi",
    "path": null,
-   "stars": 7504,
+   "stars": 7519,
    "description": "可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + Knowledge RAG, Self-hosted knowledge agent platform for RAG, knowledge graphs and multi-agent workflows.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2643,7 +2643,7 @@
   {
    "repo_full_name": "vitali87/code-graph-rag",
    "path": null,
-   "stars": 5284,
+   "stars": 5288,
    "description": "The ultimate RAG for your monorepo. Query, understand, and edit multi-language codebases with the power of AI and knowledge graphs",
    "kind": "graph",
    "security_grade": "safe",
@@ -2663,7 +2663,7 @@
   {
    "repo_full_name": "pipeshub-ai/pipeshub-ai",
    "path": null,
-   "stars": 3850,
+   "stars": 3851,
    "description": "The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 40+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2673,7 +2673,7 @@
   {
    "repo_full_name": "Ontos-AI/knowhere",
    "path": null,
-   "stars": 3788,
+   "stars": 3800,
    "description": "Knowhere extracts, parses, and outputs structured chunks ready for AI Agents and RAG.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2683,7 +2683,7 @@
   {
    "repo_full_name": "pingcap/autoflow",
    "path": null,
-   "stars": 2976,
+   "stars": 2978,
    "description": "pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai",
    "kind": "graph",
    "security_grade": "safe",
@@ -2713,7 +2713,7 @@
   {
    "repo_full_name": "yuezhiai/jonex",
    "path": null,
-   "stars": 1480,
+   "stars": 1489,
    "description": "All-in-One Multimodal Parsing Engine + Ontology-Powered, LLM Wiki-Driven AI-Ready Knowledge Engine",
    "kind": "graph",
    "security_grade": "safe",
@@ -2743,7 +2743,7 @@
   {
    "repo_full_name": "Jakedismo/codegraph-rust",
    "path": null,
-   "stars": 908,
+   "stars": 907,
    "description": "100% Rust implementation of code graphRAG with blazing fast AST+FastML parsing, surrealDB backend and advanced agentic code analysis tools through MCP for efficient code agent context management",
    "kind": "graph",
    "security_grade": "safe",
@@ -2763,7 +2763,7 @@
   {
    "repo_full_name": "verygoodplugins/automem",
    "path": null,
-   "stars": 823,
+   "stars": 824,
    "description": "Long-term memory for AI assistants. Graph + vector store that recalls decisions, relationships, and context across sessions.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2783,7 +2783,7 @@
   {
    "repo_full_name": "GD4AI/obsidian-llm-wiki",
    "path": null,
-   "stars": 739,
+   "stars": 742,
    "description": "Karpathy's LLM Wiki implementation plugin for Obsidian - turns notes and PDFs into a linked, LLM-powered knowledge base with entity pages, concept pages, graph-powered Q&A, and local-first privacy.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2803,7 +2803,7 @@
   {
    "repo_full_name": "xoai/sage-wiki",
    "path": null,
-   "stars": 638,
+   "stars": 639,
    "description": "sage-wiki is a graph memory and knowledge base that AI agents and humans build and query together. Drop in documents; an LLM compiler turns them into an interlinked wiki with a knowledge graph. One Go binary scales it from a personal vault to a team hub to a company knowledge graph.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2813,7 +2813,7 @@
   {
    "repo_full_name": "benmaster82/Kwipu",
    "path": null,
-   "stars": 611,
+   "stars": 610,
    "description": "Ask questions across your Markdown notes using a fully local Graph RAG engine. Built for Obsidian vaults, works with any folder of Markdown files. Extracts entity-relation triples from wikilinks & YAML frontmatter, retrieves answers via hybrid search (vector + BM25 + temporal). Multilingual. No cloud. Runs on Ollama.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2833,7 +2833,7 @@
   {
    "repo_full_name": "awslabs/graphrag-toolkit",
    "path": null,
-   "stars": 449,
+   "stars": 450,
    "description": "Python toolkit for building graph-enhanced GenAI applications",
    "kind": "graph",
    "security_grade": "safe",
@@ -2843,7 +2843,7 @@
   {
    "repo_full_name": "zhuzhaoyun/Molio",
    "path": null,
-   "stars": 436,
+   "stars": 437,
    "description": "A local-first personal knowledge layer for AI agents. Build evolving knowledge spaces with LLM Wiki, knowledge graphs, and agent workflows.",
    "kind": "graph",
    "security_grade": "caution",
@@ -2853,7 +2853,7 @@
   {
    "repo_full_name": "aayoawoyemi/Ori-Mnemos",
    "path": null,
-   "stars": 333,
+   "stars": 334,
    "description": "Local-first persistent agentic memory powered by Recursive Memory Harness (RMH). Open source must win.",
    "kind": "graph",
    "security_grade": "safe",
@@ -2923,7 +2923,7 @@
   {
    "repo_full_name": "aouicher/graphmind",
    "path": null,
-   "stars": 215,
+   "stars": 216,
    "description": "Local-first code intelligence for AI assistants. Turns your codebase into a knowledge graph your AI can query, navigate, and remember. 25 MCP tools.",
    "kind": "graph",
    "security_grade": "safe",
@@ -3033,7 +3033,7 @@
   {
    "repo_full_name": "NimaChu/my-wiki",
    "path": null,
-   "stars": 124,
+   "stars": 125,
    "description": "Local-first AI knowledge app and Agent Skill with evidence-backed Wiki, an interactive knowledge universe, Viki Q&A, and shareable knowledge galaxies.",
    "kind": "graph",
    "security_grade": "safe",
@@ -3083,7 +3083,7 @@
   {
    "repo_full_name": "mtrnix/metronix-memory",
    "path": null,
-   "stars": 106,
+   "stars": 107,
    "description": "Self-hosted AI agent memory — MCP memory server with durable recall for agents",
    "kind": "graph",
    "security_grade": "safe",
@@ -3093,12 +3093,22 @@
   {
    "repo_full_name": "kangise/ecommerce-ai-skills",
    "path": null,
-   "stars": 105,
+   "stars": 106,
    "description": "Cross-border e-commerce AI knowledge base, read by people and installed by agents: 69 trilingual guides, 878 prompts, a 100-entity / 322-constraint ontology, and 9 skills as a Claude Code plugin or over MCP. Factual claims are dated and CI-verified. CC0.",
    "kind": "graph",
    "security_grade": "safe",
    "language": "Python",
    "license": "CC0-1.0"
+  },
+  {
+   "repo_full_name": "talirezun/the-curator",
+   "path": null,
+   "stars": 101,
+   "description": "Your brain, then your team's brain, then your agents' brain. Drop in documents and it compounds them into an interlinked markdown wiki you own — readable in Obsidian, synced through your own private GitHub repo. Share it with a cohort. Coding agents resume from it across sessions, models and machines.",
+   "kind": "graph",
+   "security_grade": "safe",
+   "language": "JavaScript",
+   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "MarcoPorcellato/matryca-plumber",
@@ -3109,16 +3119,6 @@
    "security_grade": "safe",
    "language": "Python",
    "license": "Apache-2.0"
-  },
-  {
-   "repo_full_name": "talirezun/the-curator",
-   "path": null,
-   "stars": 100,
-   "description": "Your brain, then your team's brain, then your agents' brain. Drop in documents and it compounds them into an interlinked markdown wiki you own — readable in Obsidian, synced through your own private GitHub repo. Share it with a cohort. Coding agents resume from it across sessions, models and machines.",
-   "kind": "graph",
-   "security_grade": "safe",
-   "language": "JavaScript",
-   "license": "NOASSERTION"
   },
   {
    "repo_full_name": "FareedKhan-dev/temporal-ai-agent-pipeline",
@@ -3363,7 +3363,7 @@
   {
    "repo_full_name": "tianma-if/edgeever",
    "path": null,
-   "stars": 2886,
+   "stars": 2931,
    "description": "AI-native knowledge base & Evernote/Obsidian alternative with instant sync & native MCP. Free on Cloudflare or self-hosted via Docker.",
    "kind": "personal",
    "security_grade": "safe",
@@ -3373,7 +3373,7 @@
   {
    "repo_full_name": "rahilp/second-brain-cloudflare",
    "path": null,
-   "stars": 828,
+   "stars": 833,
    "description": "One memory layer, every AI tool. Store anything once — recall it in Claude, ChatGPT, Cursor, or any MCP client. Self-hosted on Cloudflare's free tier.",
    "kind": "personal",
    "security_grade": "safe",
