@@ -79,6 +79,16 @@
   "file": "mhmtsrfglu__superwiki.jpg",
   "still": "mhmtsrfglu__superwiki.jpg"
  },
+ "poco-ai/Agentero": {
+  "repo": "poco-ai/Agentero",
+  "url": "https://raw.githubusercontent.com/poco-ai/Agentero/HEAD/docs/assets/agent.png",
+  "alt": "PDF 阅读与 Agent 伴读",
+  "score": -0.35,
+  "type": "image/png",
+  "bytes": 1390837,
+  "file": "poco-ai__Agentero.jpg",
+  "still": "poco-ai__Agentero.jpg"
+ },
  "wenlan-app/wenlan": {
   "repo": "wenlan-app/wenlan",
   "url": "https://raw.githubusercontent.com/wenlan-app/wenlan/HEAD/docs/assets/wenlan-knowledge-network.png",
