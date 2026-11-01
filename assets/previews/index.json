@@ -89,6 +89,16 @@
   "file": "poco-ai__Agentero.jpg",
   "still": "poco-ai__Agentero.jpg"
  },
+ "thomasunise/casecite": {
+  "repo": "thomasunise/casecite",
+  "url": "https://raw.githubusercontent.com/thomasunise/casecite/HEAD/docs/screenshots/research.png",
+  "alt": "Research view: a question about a liability cap answered with inline citations t",
+  "score": -0.05,
+  "type": "image/png",
+  "bytes": 204504,
+  "file": "thomasunise__casecite.jpg",
+  "still": "thomasunise__casecite.jpg"
+ },
  "wenlan-app/wenlan": {
   "repo": "wenlan-app/wenlan",
   "url": "https://raw.githubusercontent.com/wenlan-app/wenlan/HEAD/docs/assets/wenlan-knowledge-network.png",

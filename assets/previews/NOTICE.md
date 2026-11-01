@@ -15,5 +15,6 @@ authors and stay under the license of the project they come from. To have one re
 | `mhmtsrfglu__superwiki.jpg` | [mhmtsrfglu/superwiki](https://github.com/mhmtsrfglu/superwiki) | MIT | [source](https://raw.githubusercontent.com/mhmtsrfglu/superwiki/HEAD/assets/viewer-waves-light.png) |
 | `MrDoe__OpenCodeRAG.jpg` | [MrDoe/OpenCodeRAG](https://github.com/MrDoe/OpenCodeRAG) | MIT | [source](https://raw.githubusercontent.com/MrDoe/OpenCodeRAG/HEAD/doc/assets/webui-3d.png) |
 | `poco-ai__Agentero.jpg` | [poco-ai/Agentero](https://github.com/poco-ai/Agentero) | MIT | [source](https://raw.githubusercontent.com/poco-ai/Agentero/HEAD/docs/assets/agent.png) |
+| `thomasunise__casecite.jpg` | [thomasunise/casecite](https://github.com/thomasunise/casecite) | Apache-2.0 | [source](https://raw.githubusercontent.com/thomasunise/casecite/HEAD/docs/screenshots/research.png) |
 | `wenlan-app__wenlan.jpg` | [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) | Apache-2.0 | [source](https://raw.githubusercontent.com/wenlan-app/wenlan/HEAD/docs/assets/wenlan-knowledge-network.png) |
 | `xerj-org__xerj.jpg` | [xerj-org/xerj](https://github.com/xerj-org/xerj) | Apache-2.0 | [source](https://raw.githubusercontent.com/xerj-org/xerj/HEAD/docs/media/demo-poster.png) |
