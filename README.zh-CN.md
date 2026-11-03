@@ -2,7 +2,7 @@
 
 [English](README.md)
 
-**由 LLM 或 agent 搭建和维护知识库**的开源工具:Markdown 互链的 LLM Wiki、RAG 知识库平台、MCP 与 skill、文档问答、知识图谱、个人知识库。共 345 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
+**由 LLM 或 agent 搭建和维护知识库**的开源工具:Markdown 互链的 LLM Wiki、RAG 知识库平台、MCP 与 skill、文档问答、知识图谱、个人知识库。共 347 个仓库,每个都由 [Agent Skills Hub (agentskillshub.top)](https://agentskillshub.top) 读过 README 并做了安全评级。
 
 带类型筛选的在线页面:**[https://agentskillshub.top/best/knowledge-base/](https://agentskillshub.top/best/knowledge-base/)** · 每 8 小时刷新
 
@@ -10,24 +10,24 @@
 
 <table>
 <tr>
-<td align="center" valign="top" width="33%"><b>📖 LLM Wiki</b><br><sub>118 个仓库</sub><br><br><a href="https://github.com/HagaiHen/podcast-wiki"><img src="assets/previews/HagaiHen__podcast-wiki.gif" width="260" alt="HagaiHen/podcast-wiki"></a><br><sub>由 agent 撰写并维护的 Markdown 互链 wiki。</sub><br><a href="#type-llm_wiki"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>📖 LLM Wiki</b><br><sub>119 个仓库</sub><br><br><a href="https://github.com/HagaiHen/podcast-wiki"><img src="assets/previews/HagaiHen__podcast-wiki.gif" width="260" alt="HagaiHen/podcast-wiki"></a><br><sub>由 agent 撰写并维护的 Markdown 互链 wiki。</sub><br><a href="#type-llm_wiki"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🏗 RAG 知识库平台</b><br><sub>23 个仓库</sub><br><br><a href="https://github.com/thomasunise/casecite"><img src="assets/previews/thomasunise__casecite.jpg" width="260" alt="thomasunise/casecite"></a><br><sub>自带界面的 RAG 知识库平台。</sub><br><a href="#type-rag_platform"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🔌 MCP 与 Agent Skill</b><br><sub>80 个仓库</sub><br><br><a href="https://github.com/kiycoh/silica-core"><img src="assets/previews/kiycoh__silica-core.gif" width="260" alt="kiycoh/silica-core"></a><br><sub>让 agent 检索知识库的 MCP 服务和 skill。</sub><br><a href="#type-mcp"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🔌 MCP 与 Agent Skill</b><br><sub>80 个仓库</sub><br><br><a href="https://github.com/ismailperim/briefd"><img src="assets/previews/ismailperim__briefd.gif" width="260" alt="ismailperim/briefd"></a><br><sub>让 agent 检索知识库的 MCP 服务和 skill。</sub><br><a href="#type-mcp"><b>查看列表 →</b></a></td>
 </tr>
 <tr>
 <td align="center" valign="top" width="33%"><b>📄 文档问答</b><br><sub>39 个仓库</sub><br><br><sub>基于产品文档、代码库、论文或 PDF 回答问题。</sub><br><a href="#type-docs_qa"><b>查看列表 →</b></a></td>
-<td align="center" valign="top" width="33%"><b>🕸 知识图谱</b><br><sub>77 个仓库</sub><br><br><sub>以实体和关系组织知识的图谱。</sub><br><a href="#type-graph"><b>查看列表 →</b></a></td>
+<td align="center" valign="top" width="33%"><b>🕸 知识图谱</b><br><sub>78 个仓库</sub><br><br><a href="https://github.com/mlimarenko/IronRAG"><img src="assets/previews/mlimarenko__IronRAG.gif" width="260" alt="mlimarenko/IronRAG"></a><br><sub>以实体和关系组织知识的图谱。</sub><br><a href="#type-graph"><b>查看列表 →</b></a></td>
 <td align="center" valign="top" width="33%"><b>🧠 个人知识库</b><br><sub>8 个仓库</sub><br><br><sub>由 AI 维护的笔记、收藏和第二大脑。</sub><br><a href="#type-personal"><b>查看列表 →</b></a></td>
 </tr>
 </table>
 
 ## 目录
 
-- [📖 LLM Wiki](#type-llm_wiki) (118)
+- [📖 LLM Wiki](#type-llm_wiki) (119)
 - [🏗 RAG 知识库平台](#type-rag_platform) (23)
 - [🔌 MCP 与 Agent Skill](#type-mcp) (80)
 - [📄 文档问答](#type-docs_qa) (39)
-- [🕸 知识图谱](#type-graph) (77)
+- [🕸 知识图谱](#type-graph) (78)
 - [🧠 个人知识库](#type-personal) (8)
 
 ## 什么样的仓库能上榜
@@ -59,8 +59,8 @@
 | [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian) | 16.1k | Obsidian + Claude Code 的 AI 第二大脑：将资料整理成纯 Markdown 知识图谱，支持 AI 笔记与 PKM，基于 Karpath… | [SAFE](https://agentskillshub.top/skill/AgriciDaniel/claude-obsidian/) |
 | [eugeniughelbur/obsidian-second-brain](https://github.com/eugeniughelbur/obsidian-second-brain) | 5.1k | Claude Code等7个CLI agent的持久记忆，以Markdown存储于Obsidian库。含45个命令：语义搜索、笔记改写、免密网络研究和定时维护… | [SAFE](https://agentskillshub.top/skill/eugeniughelbur/obsidian-second-brain/) |
 | [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) | 3.7k | ReMe：面向 agent 的记忆管理工具包 | [SAFE](https://agentskillshub.top/skill/agentscope-ai/ReMe/) |
-| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3.7k | 自维护个人知识库：导入资料，Claude（或 Codex/Gemini）提取知识并维护互联 wiki。支持 Claude Code、Codex、OpenCod… | [SAFE](https://agentskillshub.top/skill/SamurAIGPT/llm-wiki-agent/) |
 | [Ar9av/obsidian-wiki](https://github.com/Ar9av/obsidian-wiki) | 3.7k | 通过 Obsidian wiki 构建和维护数字大脑的 AI agent 框架，agent 记忆系统 | [SAFE](https://agentskillshub.top/skill/Ar9av/obsidian-wiki/) |
+| [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 3.7k | 自维护个人知识库：导入资料，Claude（或 Codex/Gemini）提取知识并维护互联 wiki。支持 Claude Code、Codex、OpenCod… | [SAFE](https://agentskillshub.top/skill/SamurAIGPT/llm-wiki-agent/) |
 | [agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta) | 3.5k | 基于对话生成个性化知识系统的 Claude Code 插件，输出你拥有的 Markdown 文件第二大脑。 | [SAFE](https://agentskillshub.top/skill/agenticnotetaking/arscontexta/) |
 | [Astro-Han/karpathy-llm-wiki](https://github.com/Astro-Han/karpathy-llm-wiki) | 2.7k | 兼容 Agent Skills 的 LLM wiki，适用于 Claude Code、Cursor 和 Codex。用原始资料、引用和 linting 构建… | [SAFE](https://agentskillshub.top/skill/Astro-Han/karpathy-llm-wiki/) |
 | [atomicstrata/llm-wiki-compiler](https://github.com/atomicstrata/llm-wiki-compiler) | 2.2k | 知识编译器。输入原始资料，输出相互链接的 Wiki。受 Karpathy 的 LLM Wiki 模式启发。 | [SAFE](https://agentskillshub.top/skill/atomicstrata/llm-wiki-compiler/) |
@@ -70,13 +70,13 @@
 | [nvk/llm-wiki](https://github.com/nvk/llm-wiki) | 1.5k | 为任意 AI agent 编译知识库。支持并行多 agent 研究、论点驱动调查、来源导入、Wiki 编纂、查询和产物生成。 | [SAFE](https://agentskillshub.top/skill/nvk/llm-wiki/) |
 | [coleam00/claude-memory-compiler](https://github.com/coleam00/claude-memory-compiler) | 1.3k | 为 Claude Code 提供随代码库演进的记忆：Hooks 自动记录会话，Claude Agent SDK 提取决策和经验，LLM 编译器整理结构化、交叉… | [SAFE](https://agentskillshub.top/skill/coleam00/claude-memory-compiler/) |
 | [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) | 1.2k | 能自我维护的 AI 第二大脑，包含指南、起始知识库、agent skills 和脚本，用于在 Claude Code 和 Obsidian 中构建自组织知识库。 | [SAFE](https://agentskillshub.top/skill/undefined-ui/second-brain-os/) |
-| [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac) | 994 | 供 AI coding agents 使用的代码库 wiki，记录代码未表达的决策、流程、不变量和易错点。 | [SAFE](https://agentskillshub.top/skill/AlmanacCode/codealmanac/) |
+| [AlmanacCode/codealmanac](https://github.com/AlmanacCode/codealmanac) | 995 | 供 AI coding agents 使用的代码库 wiki，记录代码未表达的决策、流程、不变量和易错点。 | [SAFE](https://agentskillshub.top/skill/AlmanacCode/codealmanac/) |
 | [kytmanov/obsidian-llm-wiki-local](https://github.com/kytmanov/obsidian-llm-wiki-local) | 849 | Karpathy 的 LLM Wiki，基于 Ollama 本地运行。导入 Markdown 笔记，AI 提取概念，自动链接并扩展 Obsidian wiki… | [SAFE](https://agentskillshub.top/skill/kytmanov/obsidian-llm-wiki-local/) |
-| [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 769 | 由 LLM 维护的 Obsidian 个人知识库，基于 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/NicholasSpisak/second-brain/) |
+| [NicholasSpisak/second-brain](https://github.com/NicholasSpisak/second-brain) | 770 | 由 LLM 维护的 Obsidian 个人知识库，基于 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/NicholasSpisak/second-brain/) |
 | [swarmclawai/swarmvault](https://github.com/swarmclawai/swarmvault) | 733 | 本地优先的LLM Wiki：开源知识图谱、RAG知识库和agent记忆；可替代Obsidian，支持Claude Code、Codex、OpenClaw。 | [SAFE](https://agentskillshub.top/skill/swarmclawai/swarmvault/) |
 | [lewislulu/llm-wiki-skill](https://github.com/lewislulu/llm-wiki-skill) | 655 | Karpathy 风格的 LLM 知识库 Agent Skill，适用于 OpenClaw/Codex。实验性项目，将持续迭代。 | [SAFE](https://agentskillshub.top/skill/lewislulu/llm-wiki-skill/) |
-| [iBlinkQ/llm-wiki-obsidian-blink](https://github.com/iBlinkQ/llm-wiki-obsidian-blink) | 647 | 一个基于 Andrej Karpathy 的 LLM Wiki 模式 实现的 Obsidian 知识库，利用 LLM 维护可复利的个人知识层。 | [SAFE](https://agentskillshub.top/skill/iBlinkQ/llm-wiki-obsidian-blink/) |
-| [opendatalab/MinerU-Document-Explorer](https://github.com/opendatalab/MinerU-Document-Explorer) | 647 | Agent 原生知识引擎：用 MCP 工具索引文档、整理 Wiki、快速检索和深度阅读，支持 PDF/DOCX/PPTX/Markdown | [SAFE](https://agentskillshub.top/skill/opendatalab/MinerU-Document-Explorer/) |
+| [opendatalab/MinerU-Document-Explorer](https://github.com/opendatalab/MinerU-Document-Explorer) | 650 | Agent 原生知识引擎：用 MCP 工具索引文档、整理 Wiki、快速检索和深度阅读，支持 PDF/DOCX/PPTX/Markdown | [SAFE](https://agentskillshub.top/skill/opendatalab/MinerU-Document-Explorer/) |
+| [iBlinkQ/llm-wiki-obsidian-blink](https://github.com/iBlinkQ/llm-wiki-obsidian-blink) | 648 | 一个基于 Andrej Karpathy 的 LLM Wiki 模式 实现的 Obsidian 知识库，利用 LLM 维护可复利的个人知识层。 | [SAFE](https://agentskillshub.top/skill/iBlinkQ/llm-wiki-obsidian-blink/) |
 | [zosmaai/pi-llm-wiki](https://github.com/zosmaai/pi-llm-wiki) | 622 | 可自维护、兼容 Obsidian 的 pi 知识库，将原始资料整理为互联的 wiki。原生支持 Open Knowledge Format (OKF) v0.… | [SAFE](https://agentskillshub.top/skill/zosmaai/pi-llm-wiki/) |
 | [shannhk/llm-wikid](https://github.com/shannhk/llm-wikid) | 431 | 面向 Obsidian 的 Karpathy 风格 LLM 知识库。克隆后运行 Claude Code，构建你的第二大脑。 | [SAFE](https://agentskillshub.top/skill/shannhk/llm-wikid/) |
 | [Pratiyush/llm-wiki](https://github.com/Pratiyush/llm-wiki) | 399 | 基于 LLM 的知识库，来自 Claude Code、Codex CLI、Copilot、Cursor 和 Gemini 会话。实现并发布 Karpathy… | [SAFE](https://agentskillshub.top/skill/Pratiyush/llm-wiki/) |
@@ -87,16 +87,16 @@
 | [tonbistudio/llm-wiki](https://github.com/tonbistudio/llm-wiki) | 268 | 按 Karpathy 的 LLM Wiki 模式构建 LLM 知识库的开源模板 | [SAFE](https://agentskillshub.top/skill/tonbistudio/llm-wiki/) |
 | [kytmanov/synto](https://github.com/kytmanov/synto) | 266 | Karpathy 的 LLM Wiki，使用 Ollama 本地运行。导入 Markdown 笔记，AI 提取概念，Obsidian wiki 自动链接并扩展… | [SAFE](https://agentskillshub.top/skill/kytmanov/synto/) |
 | [luotwo/llm-wiki](https://github.com/luotwo/llm-wiki) | 228 | LLM Wiki - 用 LLM 构建持续积累的个人知识库，含 Claude Code Skill 和实战经验 | [SAFE](https://agentskillshub.top/skill/luotwo/llm-wiki/) |
+| [balukosuri/llm-wiki-karpathy](https://github.com/balukosuri/llm-wiki-karpathy) | 221 |  | [SAFE](https://agentskillshub.top/skill/balukosuri/llm-wiki-karpathy/) |
 | [mduongvandinh/llm-wiki](https://github.com/mduongvandinh/llm-wiki) | 221 | 由 LLM 驱动的全自动个人知识库，基于 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/mduongvandinh/llm-wiki/) |
-| [balukosuri/llm-wiki-karpathy](https://github.com/balukosuri/llm-wiki-karpathy) | 220 |  | [SAFE](https://agentskillshub.top/skill/balukosuri/llm-wiki-karpathy/) |
 | [kfchou/wiki-skills](https://github.com/kfchou/wiki-skills) | 189 | Claude Code 的 LLM 维护个人 Wiki skills，实现 Karpathy 的 LLM Wiki 模式 | [SAFE](https://agentskillshub.top/skill/kfchou/wiki-skills/) |
 | [IssacW228/student-llm-wiki](https://github.com/IssacW228/student-llm-wiki) | 180 | 学生LLMWiki：把课程幻灯片整理成互联知识库，支持费曼复习、备考、信心衰减和跨课关联，适配Claude Code与Obsidian。 | [SAFE](https://agentskillshub.top/skill/IssacW228/student-llm-wiki/) |
 | [domleca/llm-wiki](https://github.com/domleca/llm-wiki) | 178 | LM Wiki 读取 Obsidian 笔记，提取人物、想法和联系，支持私密自然语言查询。 | [SAFE](https://agentskillshub.top/skill/domleca/llm-wiki/) |
-| [selmakcby/knowledge-pipeline](https://github.com/selmakcby/knowledge-pipeline) | 174 | Terminal-vibe 演示 + LLM-Wiki skill。将原始对话转化为由模式规范的持续增长 wiki。 | [SAFE](https://agentskillshub.top/skill/selmakcby/knowledge-pipeline/) |
+| [selmakcby/knowledge-pipeline](https://github.com/selmakcby/knowledge-pipeline) | 176 | Terminal-vibe 演示 + LLM-Wiki skill。将原始对话转化为由模式规范的持续增长 wiki。 | [SAFE](https://agentskillshub.top/skill/selmakcby/knowledge-pipeline/) |
 | [alfadur7/llm-wiki-newsroom](https://github.com/alfadur7/llm-wiki-newsroom) | 173 | Harness engineering：agent 编辑部将文档转成交链 Markdown wiki；reground 防页面过时，写作≠审阅，本地优先，结构… | [SAFE](https://agentskillshub.top/skill/alfadur7/llm-wiki-newsroom/) |
+| [MehmetGoekce/llm-wiki](https://github.com/MehmetGoekce/llm-wiki) | 159 | 使用 Claude Code 构建 Karpathy 的 LLM Wiki，采用 L1/L2 缓存架构，支持 Logseq + Obsidian。 | [SAFE](https://agentskillshub.top/skill/MehmetGoekce/llm-wiki/) |
 | [PieroSierra/SecondBrain](https://github.com/PieroSierra/SecondBrain) | 158 | 此文件夹中的个人知识库。放入内容后自动整理，可提问并获得有来源的答案，支持 Claude Code 斜杠命令或本地网页面板。 | [SAFE](https://agentskillshub.top/skill/PieroSierra/SecondBrain/) |
 | [liangdabiao/llm-wiki](https://github.com/liangdabiao/llm-wiki) | 158 | 基于 Karpathy llm-wiki，使用 AI 整理多种来源为 wiki，通过 Quartz 发布，并用 claude_agent_sdk 调用 cla… | [SAFE](https://agentskillshub.top/skill/liangdabiao/llm-wiki/) |
-| [MehmetGoekce/llm-wiki](https://github.com/MehmetGoekce/llm-wiki) | 155 | 使用 Claude Code 构建 Karpathy 的 LLM Wiki，采用 L1/L2 缓存架构，支持 Logseq + Obsidian。 | [SAFE](https://agentskillshub.top/skill/MehmetGoekce/llm-wiki/) |
 | [bybit-exchange/kaas](https://github.com/bybit-exchange/kaas) | 153 | 将零散笔记、文档和文字稿整理为可查询的 Markdown wiki，支持 MCP 访问，无需 embeddings，可自托管。 | [SAFE](https://agentskillshub.top/skill/bybit-exchange/kaas/) |
 | [cablate/llm-atomic-wiki](https://github.com/cablate/llm-atomic-wiki) | 152 | Karpathy 的 LLM Wiki 模式扩展：原子层、主题分支、双层 Lint。基于端到端实践提炼。 | [SAFE](https://agentskillshub.top/skill/cablate/llm-atomic-wiki/) |
 | [kothari-nikunj/llm-wiki](https://github.com/kothari-nikunj/llm-wiki) | 144 | 个人维基 | [SAFE](https://agentskillshub.top/skill/kothari-nikunj/llm-wiki/) |
@@ -104,7 +104,7 @@
 | [frankchu91/mindbase-llm-wiki](https://github.com/frankchu91/mindbase-llm-wiki) | 137 | Karpathy 的 LLM Wiki 产品：AI 根据笔记和资料构建并维护 Markdown wiki。MCP server + web UI，支持 Oll… | [SAFE](https://agentskillshub.top/skill/frankchu91/mindbase-llm-wiki/) |
 | [psinetron/echoes-vault-codex](https://github.com/psinetron/echoes-vault-codex) | 132 | Codex 持久记忆插件，跨会话保留的 Obsidian 风格知识库 | [SAFE](https://agentskillshub.top/skill/psinetron/echoes-vault-codex/) |
 | [ctxr-dev/llm-wiki-memory](https://github.com/ctxr-dev/llm-wiki-memory) | 129 | 本地、Git 版本化的 AI 编程 agent 记忆。无需 RAG、Docker 或外部服务。借助本地 LLM wiki、设备端 embeddings 和 M… | [SAFE](https://agentskillshub.top/skill/ctxr-dev/llm-wiki-memory/) |
-| [AyanbekDos/memoriki](https://github.com/AyanbekDos/memoriki) | 123 | Memoriki - LLM Wiki + MemPalace。具备真实记忆的个人知识库 | [SAFE](https://agentskillshub.top/skill/AyanbekDos/memoriki/) |
+| [AyanbekDos/memoriki](https://github.com/AyanbekDos/memoriki) | 124 | Memoriki - LLM Wiki + MemPalace。具备真实记忆的个人知识库 | [SAFE](https://agentskillshub.top/skill/AyanbekDos/memoriki/) |
 | [praneybehl/llm-wiki-plugin](https://github.com/praneybehl/llm-wiki-plugin) | 123 | Andrej Karpathy 的 LLM Wiki 模式，作为 skill 和 Claude Code 插件：将资料转为可自维护、可扩展的 Markdown… | [SAFE](https://agentskillshub.top/skill/praneybehl/llm-wiki-plugin/) |
 | [vakovalskii/ontoship](https://github.com/vakovalskii/ontoship) | 123 | md+git 知识库：FTS5 搜索（bm25+trigram/模糊）、HTML+图谱、代码本体检查器、Claude Code 插件 | [SAFE](https://agentskillshub.top/skill/vakovalskii/ontoship/) |
 | [songzhuozhu/obsidian-llm-wiki](https://github.com/songzhuozhu/obsidian-llm-wiki) | 121 | 让 LLM 成为 wiki 维护者，受 Karpathy 的 LLM Wiki 启发，适用于 Obsidian、Claude Code 和 Codex。 | [SAFE](https://agentskillshub.top/skill/songzhuozhu/obsidian-llm-wiki/) |
@@ -126,7 +126,7 @@
 | [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) | 93 | 个人动态 Wiki。Wenlan 将文档、笔记和 AI 对话整理成带来源链接的页面，来源变化时更新但不覆盖编辑。Claude Code、Codex 等 AI… | [SAFE](https://agentskillshub.top/skill/wenlan-app/wenlan/) |
 | [zby/commonplace](https://github.com/zby/commonplace) | 92 | LLM wiki 协同运行理论：供 agent 操作知识的框架，包含带类型、可链接、经审核的 Markdown，由 agent 执行。 | [SAFE](https://agentskillshub.top/skill/zby/commonplace/) |
 | [skindhu/claude-deep-wiki](https://github.com/skindhu/claude-deep-wiki) | 91 | 基于 Claude Agent SDK 的代码分析工具，生成业务知识库和 PRD 文档，支持 165+ 种语言。 | [SAFE](https://agentskillshub.top/skill/skindhu/claude-deep-wiki/) |
-| [zcag/tela](https://github.com/zcag/tela) | 90 | 开源自托管 Markdown 团队 Wiki，内置 MCP server，支持 AI agents 读写和搜索文档、实时协作、语义及全文搜索。 | [SAFE](https://agentskillshub.top/skill/zcag/tela/) |
+| [zcag/tela](https://github.com/zcag/tela) | 91 | 开源自托管 Markdown 团队 Wiki，内置 MCP server，支持 AI agents 读写和搜索文档、实时协作、语义及全文搜索。 | [SAFE](https://agentskillshub.top/skill/zcag/tela/) |
 | [fivetaku/llm-wiki](https://github.com/fivetaku/llm-wiki) | 85 | 由 Claude Code 将原始资料合成为 Wiki 并持续维护的 Markdown 知识库模板（LLM Wiki、Karpathy 模式） | [SAFE](https://agentskillshub.top/skill/fivetaku/llm-wiki/) |
 | [owenliang/llm-wiki](https://github.com/owenliang/llm-wiki) | 85 | karpathy/llm-wiki.md 的实现 | [SAFE](https://agentskillshub.top/skill/owenliang/llm-wiki/) |
 | [boluodaixue/paperpilot](https://github.com/boluodaixue/paperpilot) | 82 | 基于 LangGraph 的个人深度研究系统，将研究沉淀为可追溯、可问答、可持续扩展的长期知识。 | [SAFE](https://agentskillshub.top/skill/boluodaixue/paperpilot/) |
@@ -144,9 +144,9 @@
 | [vanillaflava/llm-wiki-skills](https://github.com/vanillaflava/llm-wiki-skills) | 70 | 将 Markdown 知识库整理为 Wiki，含 6 个 agent skill；支持 Obsidian、Logseq、本地文件夹和 LLM 会话记忆，跨平台。 | [SAFE](https://agentskillshub.top/skill/vanillaflava/llm-wiki-skills/) |
 | [Benboerba620/karpathy-claude-wiki](https://github.com/Benboerba620/karpathy-claude-wiki) | 69 | 面向 LLM 的 Karpathy 风格个人 wiki：Markdown + frontmatter，无向量数据库、无 RAG。为 Claude Code 打… | [SAFE](https://agentskillshub.top/skill/Benboerba620/karpathy-claude-wiki/) |
 | [oliver-kriska/scribe](https://github.com/oliver-kriska/scribe) | 69 | 由LLM管理的个人知识库，自动从git仓库、Claude Code会话和iMessage书签提取内容，跨项目使用，qmd索引，按cron运行 | [CAUTION](https://agentskillshub.top/skill/oliver-kriska/scribe/) |
+| [vouchdev/vouch](https://github.com/vouchdev/vouch) | 69 | 面向 AI agents 的 Git 原生审核知识库：它们提议写入，你审批。每条声明引用来源，每次变更均为仓库中的 diff。MCP + CLI。 | [SAFE](https://agentskillshub.top/skill/vouchdev/vouch/) |
+| [LeoBR84p/wiki_llm](https://github.com/LeoBR84p/wiki_llm) | 68 | wiki-llm：将文档集合转为智能 Wiki，自动生成、组织和维护，无需编程。 | [SAFE](https://agentskillshub.top/skill/LeoBR84p/wiki_llm/) |
 | [ddsyasas/llm-wiki](https://github.com/ddsyasas/llm-wiki) | 68 | 由 LLM agent 维护的开源本地优先知识库，实现 Andrej Karpathy 的 LLM Wiki 模式。 | [SAFE](https://agentskillshub.top/skill/ddsyasas/llm-wiki/) |
-| [vouchdev/vouch](https://github.com/vouchdev/vouch) | 68 | 面向 AI agents 的 Git 原生审核知识库：它们提议写入，你审批。每条声明引用来源，每次变更均为仓库中的 diff。MCP + CLI。 | [SAFE](https://agentskillshub.top/skill/vouchdev/vouch/) |
-| [LeoBR84p/wiki_llm](https://github.com/LeoBR84p/wiki_llm) | 67 | wiki-llm：将文档集合转为智能 Wiki，自动生成、组织和维护，无需编程。 | [SAFE](https://agentskillshub.top/skill/LeoBR84p/wiki_llm/) |
 | [tashisleepy/knowledge-engine](https://github.com/tashisleepy/knowledge-engine) | 67 | 连接人类可读的 Wiki 与机器速度的记忆，基于 Karpathys LLM Wiki 模式和 Memvid 构建。 | [SAFE](https://agentskillshub.top/skill/tashisleepy/knowledge-engine/) |
 | [hoadoan1997/llm-knowledge-base](https://github.com/hoadoan1997/llm-knowledge-base) | 64 | LLM驱动的个人知识库：原始文章→wiki→问答与输出。Claude撰写，你负责整理。 | [SAFE](https://agentskillshub.top/skill/hoadoan1997/llm-knowledge-base/) |
 | [remember-md/remember](https://github.com/remember-md/remember) | 63 | Claude Code 的 AI 第二大脑，可自我构建。将会话知识提取为自动整理的 Markdown。优先本地存储，可查询并学习你的习惯。 | [SAFE](https://agentskillshub.top/skill/remember-md/remember/) |
@@ -160,8 +160,8 @@
 | [6eanut/llm-wiki](https://github.com/6eanut/llm-wiki) | 49 | 用 Claude Code skill 从源文档构建持久、互联的知识库，知识编译一次并持续更新，无需每次查询重新推导，基于 Karpathy 的 LLM Wi… | [SAFE](https://agentskillshub.top/skill/6eanut/llm-wiki/) |
 | [sodam-ai/SoDam-WikiMate](https://github.com/sodam-ai/SoDam-WikiMate) | 49 | Claude Code 插件+MCP core：整理 Obsidian 原文库，建笔记、关联分类总结，可索引 Notion；健康检查、无删除修复、审批与注入防… | [SAFE](https://agentskillshub.top/skill/sodam-ai/SoDam-WikiMate/) |
 | [cobusgreyling/llm-wiki](https://github.com/cobusgreyling/llm-wiki) | 45 | 由 LLM 智能体维护的持续积累知识库，灵感来自 Karpathy 的 LLM Wiki 模式 | [SAFE](https://agentskillshub.top/skill/cobusgreyling/llm-wiki/) |
-| [decodingai-magazine/llm-wiki-workshop](https://github.com/decodingai-magazine/llm-wiki-workshop) | 43 | 从第一性原理学习设计 LLM wiki，用作 agent 记忆。包含 3 个练习、开源代码、视频和幻灯片。无需编程技能。 | [SAFE](https://agentskillshub.top/skill/decodingai-magazine/llm-wiki-workshop/) |
-| [2233admin/obsidian-llm-wiki](https://github.com/2233admin/obsidian-llm-wiki) | 37 | 你的 Markdown 知识库，编译为供 Claude Code、Codex、OpenCode 和 Gemini CLI 使用的 6 人 MCP 团队。优先无… | [SAFE](https://agentskillshub.top/skill/2233admin/obsidian-llm-wiki/) |
+| [decodingai-magazine/llm-wiki-workshop](https://github.com/decodingai-magazine/llm-wiki-workshop) | 42 | 从第一性原理学习设计 LLM wiki，用作 agent 记忆。包含 3 个练习、开源代码、视频和幻灯片。无需编程技能。 | [SAFE](https://agentskillshub.top/skill/decodingai-magazine/llm-wiki-workshop/) |
+| [2233admin/obsidian-llm-wiki](https://github.com/2233admin/obsidian-llm-wiki) | 38 | 你的 Markdown 知识库，编译为供 Claude Code、Codex、OpenCode 和 Gemini CLI 使用的 6 人 MCP 团队。优先无… | [SAFE](https://agentskillshub.top/skill/2233admin/obsidian-llm-wiki/) |
 | [mhmtsrfglu/superwiki](https://github.com/mhmtsrfglu/superwiki) | 30 | 将 docs/ 转为由 LLM 维护的 wiki 和任务跟踪器的 agent skills，适配 Obsidian，支持 Claude Code、Codex… | [SAFE](https://agentskillshub.top/skill/mhmtsrfglu/superwiki/) |
 | [Open330/kiwimu](https://github.com/Open330/kiwimu) | 29 | 用 LLM 将教材、PDF 和网页内容转为互联的个人学习 Wiki | [SAFE](https://agentskillshub.top/skill/Open330/kiwimu/) |
 | [professorpalmer/portable-llm-wiki](https://github.com/professorpalmer/portable-llm-wiki) | 20 | 厂商中立的LLM维护型个人上下文wiki。Markdown存于git，可通过HTTP API和MCP server供LLM查询。v0.7原型。 | [SAFE](https://agentskillshub.top/skill/professorpalmer/portable-llm-wiki/) |
@@ -170,6 +170,7 @@
 | [onurkafk/corvid](https://github.com/onurkafk/corvid) | 14 | AI 编码 agent 的持久记忆：一条命令保存，语义搜索检索，跨项目使用。灵感来自 Karpathy 的 LLM Wiki。 | [SAFE](https://agentskillshub.top/skill/onurkafk/corvid/) |
 | [PALAN-K/llm-wiki-loop](https://github.com/PALAN-K/llm-wiki-loop) | 13 | LLM维护的知识库参考架构：模式、生命周期闭环、机器验证、自安装 | [SAFE](https://agentskillshub.top/skill/PALAN-K/llm-wiki-loop/) |
 | [HagaiHen/podcast-wiki](https://github.com/HagaiHen/podcast-wiki) | 9 | Claude Code 插件，将 Spotify 播客转成带引用的 LLM wiki：每个主题一页，每条主张链接至对应集数。 | [SAFE](https://agentskillshub.top/skill/HagaiHen/podcast-wiki/) |
+| [ckryptickunal/OpenWiki](https://github.com/ckryptickunal/OpenWiki) | 5 | 将 YouTube 视频、播放列表、频道、博客和笔记转换为互联的 Markdown 知识库（LLM wiki/第二大脑）。兼容 Obsidian。支持 Gem… | [*待评级*](https://agentskillshub.top/skill/ckryptickunal/OpenWiki/) |
 
 <a id="type-rag_platform"></a>
 ## 🏗 RAG 知识库平台
@@ -180,25 +181,25 @@
 |---|---:|---|---|
 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 93.4k | RAGFlow 是开源的检索增强生成（RAG）引擎，结合 RAG 与 Agent 能力，为 LLMs 提供上下文层 | [SAFE](https://agentskillshub.top/skill/infiniflow/ragflow/) |
 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 38.7k | Langchain-Chatchat（原Langchain-ChatGLM）：基于 Langchain、ChatGLM、Qwen、Llama 的本地知识库 R… | [SAFE](https://agentskillshub.top/skill/chatchat-space/Langchain-Chatchat/) |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36.3k | 开源 LLM 知识平台：将原始文档转为可查询的 RAG、自主推理 agent 和自维护 Wiki。 | [SAFE](https://agentskillshub.top/skill/Tencent/WeKnora/) |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 36.4k | 开源 LLM 知识平台：将原始文档转为可查询的 RAG、自主推理 agent 和自维护 Wiki。 | [SAFE](https://agentskillshub.top/skill/Tencent/WeKnora/) |
 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 23.1k | MaxKB 是用于构建企业级智能体的开源平台。 | [SAFE](https://agentskillshub.top/skill/1Panel-dev/MaxKB/) |
 | [airweave-ai/airweave](https://github.com/airweave-ai/airweave) | 6.5k | 面向 AI agent 的开源上下文检索层 | [SAFE](https://agentskillshub.top/skill/airweave-ai/airweave/) |
 | [Zleap-AI/SAG](https://github.com/Zleap-AI/SAG) | 2.6k | 面向人类和智能体的原创检索架构与开源知识库。 | [SAFE](https://agentskillshub.top/skill/Zleap-AI/SAG/) |
 | [finic-ai/rag-stack](https://github.com/finic-ai/rag-stack) | 1.6k | 在 VPC 中部署私有 ChatGPT 替代方案，连接组织知识库。支持 Llama 2、Falcon 和 GPT4All 等开源 LLM。 | [SAFE](https://agentskillshub.top/skill/finic-ai/rag-stack/) |
 | [shuyu-labs/AntSK](https://github.com/shuyu-labs/AntSK) | 1.3k | 基于 .Net 9、AntBlazor、Semantic Kernel 和 Kernel Memory 的 AI 知识库/agent，支持本地离线大模型、无网… | [SAFE](https://agentskillshub.top/skill/shuyu-labs/AntSK/) |
-| [Minima-AI-Inc/minima](https://github.com/Minima-AI-Inc/minima) | 1.1k | 可配置容器的本地部署对话式 RAG | [*待评级*](https://agentskillshub.top/skill/Minima-AI-Inc/minima/) |
+| [Minima-AI-Inc/minima](https://github.com/Minima-AI-Inc/minima) | 1.1k | 本地部署的可配置容器对话式 RAG | [SAFE](https://agentskillshub.top/skill/Minima-AI-Inc/minima/) |
 | [mudler/LocalRecall](https://github.com/mudler/LocalRecall) | 985 | 面向 agent 的本地 Memory 层与知识库，支持 WebUI | [SAFE](https://agentskillshub.top/skill/mudler/LocalRecall/) |
-| [thomasunise/casecite](https://github.com/thomasunise/casecite) | 245 | CaseCite 是开源、自托管的法律 RAG 判例研究与文档分析平台。 | [SAFE](https://agentskillshub.top/skill/thomasunise/casecite/) |
+| [thomasunise/casecite](https://github.com/thomasunise/casecite) | 252 | CaseCite 是开源、自托管的法律 RAG 判例研究与文档分析平台。 | [SAFE](https://agentskillshub.top/skill/thomasunise/casecite/) |
 | [boluo2077/deep-rag](https://github.com/boluo2077/deep-rag) | 218 | Deep RAG：超越向量搜索，支持多跳推理、否定查询、数值比较和全局聚合，兼容 OpenAI、Anthropic、Google Gemini，采用 Pyth… | [SAFE](https://agentskillshub.top/skill/boluo2077/deep-rag/) |
-| [bulolo/CatWiki](https://github.com/bulolo/CatWiki) | 197 | Agentic RAG知识库平台，支持内容管理和AI智能问答 | [SAFE](https://agentskillshub.top/skill/bulolo/CatWiki/) |
+| [bulolo/CatWiki](https://github.com/bulolo/CatWiki) | 198 | Agentic RAG知识库平台，支持内容管理和AI智能问答 | [SAFE](https://agentskillshub.top/skill/bulolo/CatWiki/) |
 | [Ciao1019/Petrichor](https://github.com/Ciao1019/Petrichor) | 154 | 面向人类和 AI agents 的自托管知识平台，发布 wiki、博客和可移植的 Agent Skills。 | [SAFE](https://agentskillshub.top/skill/Ciao1019/Petrichor/) |
 | [madarco/ragrabbit](https://github.com/madarco/ragrabbit) | 136 | 开源、自托管的网站 AI 搜索和 LLM.txt | [SAFE](https://agentskillshub.top/skill/madarco/ragrabbit/) |
-| [joungminsung/OpenDocuments](https://github.com/joungminsung/OpenDocuments) | 123 | 自托管 RAG 平台，支持搜索 GitHub、Notion、Google Drive、本地文件和网页文档，并提供引用。 | [SAFE](https://agentskillshub.top/skill/joungminsung/OpenDocuments/) |
+| [joungminsung/OpenDocuments](https://github.com/joungminsung/OpenDocuments) | 124 | 自托管 RAG 平台，支持搜索 GitHub、Notion、Google Drive、本地文件和网页文档，并提供引用。 | [SAFE](https://agentskillshub.top/skill/joungminsung/OpenDocuments/) |
 | [gmickel/gno](https://github.com/gmickel/gno) | 117 | 本地 AI 文档搜索与编辑，支持混合检索、LLM 回答、WebUI、REST API 和 MCP，适用于 AI 客户端。 | [SAFE](https://agentskillshub.top/skill/gmickel/gno/) |
 | [Pengc-Sun/enterprise-rag-knowledge-base](https://github.com/Pengc-Sun/enterprise-rag-knowledge-base) | 104 | 面向企业的 RAG 知识库系统 | [SAFE](https://agentskillshub.top/skill/Pengc-Sun/enterprise-rag-knowledge-base/) |
 | [quanta-quest/quanta-quest](https://github.com/quanta-quest/quanta-quest) | 102 | AI 驱动的个人数据通用搜索，按你的需求定制。目标：以“端侧 LLM + 用户数据本地化”为核心发展方向。 | [SAFE](https://agentskillshub.top/skill/quanta-quest/quanta-quest/) |
 | [kbrisso/byte-vision](https://github.com/kbrisso/byte-vision) | 72 | Byte-Vision 是以隐私为先的文档智能平台，将静态文档转为可搜索知识库，基于 Elasticsearch 和 RAG，支持文档解析、OCR 处理和现代… | [CAUTION](https://agentskillshub.top/skill/kbrisso/byte-vision/) |
-| [upupmake/general-rag-system](https://github.com/upupmake/general-rag-system) | 67 | 基于 Vue.js 前端、Spring Boot 后端和 FastAPI LLM 服务的 RAG 知识库系统。 | [SAFE](https://agentskillshub.top/skill/upupmake/general-rag-system/) |
+| [upupmake/general-rag-system](https://github.com/upupmake/general-rag-system) | 68 | 基于 Vue.js 前端、Spring Boot 后端和 FastAPI LLM 服务的 RAG 知识库系统。 | [SAFE](https://agentskillshub.top/skill/upupmake/general-rag-system/) |
 | [3vilM33pl3/codifix](https://github.com/3vilM33pl3/codifix) | 20 | 面向 coding agents 的本地知识库，提供 Rust CLI/TUI、PostgreSQL 存储和可选后台采集 | [SAFE](https://agentskillshub.top/skill/3vilM33pl3/codifix/) |
 | [reetamdan/document-rag](https://github.com/reetamdan/document-rag) | 5 | DocumentRAG 是自托管的 RAG 聊天机器人，使用本地语言模型查询文档，基于 FastAPI、LangChain 和 Hugging Face tr… | [SAFE](https://agentskillshub.top/skill/reetamdan/document-rag/) |
 
@@ -215,7 +216,7 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 18.8k | XERJ 用于 AI 搜索数据，自动索引代码、文档、日志和 PDF，支持搜索、RAG、安全审计与 agent 记忆。 | [SAFE](https://agentskillshub.top/skill/xerj-org/xerj/) |
+| [xerj-org/xerj](https://github.com/xerj-org/xerj) | 18.9k | XERJ 用于 AI 搜索数据，自动索引代码、文档、日志和 PDF，支持搜索、RAG、安全审计与 agent 记忆。 | [SAFE](https://agentskillshub.top/skill/xerj-org/xerj/) |
 | [zilliztech/memsearch](https://github.com/zilliztech/memsearch) | 2.8k | 基于 Markdown 和 Milvus，为 Claude Code、Codex、DSH 等 AI agent 提供统一记忆层。 | [SAFE](https://agentskillshub.top/skill/zilliztech/memsearch/) |
 | [coleam00/mcp-crawl4ai-rag](https://github.com/coleam00/mcp-crawl4ai-rag) | 2.3k | 为 AI agents 和 AI coding assistants 提供网页抓取与 RAG 能力 | [SAFE](https://agentskillshub.top/skill/coleam00/mcp-crawl4ai-rag/) |
 | [MicrosoftDocs/mcp](https://github.com/MicrosoftDocs/mcp) | 2.0k | Microsoft Learn MCP Server 和 CLI 工具，为 LLM 和 AI agent 提供实时、可信的 Microsoft 文档与代码示例。 | [SAFE](https://agentskillshub.top/skill/MicrosoftDocs/mcp/) |
@@ -228,23 +229,23 @@
 | [BagelHole/DevOps-Security-Agent-Skills](https://github.com/BagelHole/DevOps-Security-Agent-Skills) | 1.2k | 面向 agent 的 DevOps 与安全知识库，涵盖 Kubernetes、云、AI 平台、容器、合规和事件响应，含80+ skills及脚本、模板、操作手… | [SAFE](https://agentskillshub.top/skill/BagelHole/DevOps-Security-Agent-Skills/) |
 | [poco-ai/Agentero](https://github.com/poco-ai/Agentero) | 1.1k | 为人与 Agent 协作的科研工作台，支持带引用的 PDF 问答、Vault 和写作，补齐 Zotero 时代的人机上下文断点。 | [SAFE](https://agentskillshub.top/skill/poco-ai/Agentero/) |
 | [0xK3vin/MegaMemory](https://github.com/0xK3vin/MegaMemory) | 734 | 面向编程 agent 的持久化项目知识图谱，提供语义搜索、进程内嵌入和网页探索器的 MCP server。 | [SAFE](https://agentskillshub.top/skill/0xK3vin/MegaMemory/) |
-| [ConardLi/rag-skill](https://github.com/ConardLi/rag-skill) | 724 | 用于本地知识库检索的 skill | [SAFE](https://agentskillshub.top/skill/ConardLi/rag-skill/) |
+| [ConardLi/rag-skill](https://github.com/ConardLi/rag-skill) | 726 | 用于本地知识库检索的 skill | [SAFE](https://agentskillshub.top/skill/ConardLi/rag-skill/) |
 | [GeminiLight/MindOS](https://github.com/GeminiLight/MindOS) | 704 | MindOS 是人类与 AI 协作的思维系统：人类思考，agents 执行；为所有 agents 同步思维，透明、可控并协同演进。 | [SAFE](https://agentskillshub.top/skill/GeminiLight/MindOS/) |
 | [docsagent/docsagent](https://github.com/docsagent/docsagent) | 579 | DocsAgent：私有知识库搜索，支持Zotero、Obsidian、Apple Notes；MCP支持Claude、Cursor、Cline。 | [SAFE](https://agentskillshub.top/skill/docsagent/docsagent/) |
-| [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 550 | 基于 git 的零依赖微课程库，供 AI Agents 异步分享和检索已验证的调试经验。https://misakanet.org | [SAFE](https://agentskillshub.top/skill/Ikalus1988/MisakaNet/) |
-| [1llu50ry/mcp-reverse](https://github.com/1llu50ry/mcp-reverse) | 528 | 用于游戏破解与逆向工程的 MCP 服务器，含4,100+个skill、源代码归档、专用agent和工作流工具，可接入Claude、Cursor或兼容MCP的客… | [SAFE](https://agentskillshub.top/skill/1llu50ry/mcp-reverse/) |
+| [Ikalus1988/MisakaNet](https://github.com/Ikalus1988/MisakaNet) | 553 | 基于 git 的零依赖微课程库，供 AI Agents 异步分享和检索已验证的调试经验。https://misakanet.org | [SAFE](https://agentskillshub.top/skill/Ikalus1988/MisakaNet/) |
+| [1llu50ry/mcp-reverse](https://github.com/1llu50ry/mcp-reverse) | 532 | 用于游戏破解与逆向工程的 MCP 服务器，含4,100+个skill、源代码归档、专用agent和工作流工具，可接入Claude、Cursor或兼容MCP的客… | [SAFE](https://agentskillshub.top/skill/1llu50ry/mcp-reverse/) |
 | [shinpr/mcp-local-rag](https://github.com/shinpr/mcp-local-rag) | 429 | 面向开发者的本地优先 RAG 服务器，支持代码和技术文档的语义与关键词搜索，可通过 MCP 或 CLI 使用 | [SAFE](https://agentskillshub.top/skill/shinpr/mcp-local-rag/) |
 | [RafalWilinski/mcp-apple-notes](https://github.com/RafalWilinski/mcp-apple-notes) | 417 | 在 Claude 中与笔记对话。使用 Model Context Protocol 对 Apple Notes 进行 RAG。 | [SAFE](https://agentskillshub.top/skill/RafalWilinski/mcp-apple-notes/) |
 | [ergut/mcp-logseq](https://github.com/ergut/mcp-logseq) | 350 | 通过 LogSeq 本地 HTTP API 交互的 MCP server，支持 Claude 等 AI 助手读写和管理图谱 | [SAFE](https://agentskillshub.top/skill/ergut/mcp-logseq/) |
-| [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | 343 | MCP 文档服务器：文档管理、Gemini 集成、AI 语义搜索、文件上传、智能分块、多语言支持；适用于新框架、API 文档和内部指南 | [SAFE](https://agentskillshub.top/skill/andrea9293/mcp-documentation-server/) |
+| [andrea9293/mcp-documentation-server](https://github.com/andrea9293/mcp-documentation-server) | 344 | MCP 文档服务器：文档管理、Gemini 集成、AI 语义搜索、文件上传、智能分块、多语言支持；适用于新框架、API 文档和内部指南 | [SAFE](https://agentskillshub.top/skill/andrea9293/mcp-documentation-server/) |
 | [aa0101181514/tw-legal-rag](https://github.com/aa0101181514/tw-legal-rag) | 342 | 台湾法律 MCP 服务器与 CLI：收录 2,250 万笔裁判书、行政函释及宪法法庭裁判，支持 Claude/ChatGPT/Codex，仅提供检索与引用查核。 | [SAFE](https://agentskillshub.top/skill/aa0101181514/tw-legal-rag/) |
 | [nameforjt-afk/session-knowledge](https://github.com/nameforjt-afk/session-knowledge) | 306 | 将 Claude Code 会话历史变成可搜索的本地知识库——13 个 MCP 工具，仅用标准库，数据不离开本机 | [SAFE](https://agentskillshub.top/skill/nameforjt-afk/session-knowledge/) |
 | [Govcraft/rust-docs-mcp-server](https://github.com/Govcraft/rust-docs-mcp-server) | 300 | 防止 AI 助手提供过时的 Rust 代码建议。MCP server 获取最新 crate 文档，使用 embeddings/LLMs，通过工具调用提供准确上… | [SAFE](https://agentskillshub.top/skill/Govcraft/rust-docs-mcp-server/) |
-| [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 299 | Claude Code 的本地 RAG MCP 服务器：混合搜索、交叉编码器重排，13 个 MCP 工具，支持 20 种格式解析，无需外部服务器或 API 密… | [SAFE](https://agentskillshub.top/skill/lyonzin/knowledge-rag/) |
+| [lyonzin/knowledge-rag](https://github.com/lyonzin/knowledge-rag) | 300 | Claude Code 的本地 RAG MCP 服务器：混合搜索、交叉编码器重排，13 个 MCP 工具，支持 20 种格式解析，无需外部服务器或 API 密… | [SAFE](https://agentskillshub.top/skill/lyonzin/knowledge-rag/) |
 | [asgard-ai-platform/skills](https://github.com/asgard-ai-platform/skills) | 244 | 覆盖22个领域的301个开源编码 agent skill，包含方法、判断与注意事项，封装为 Asgard AI Platform 的 Claude Agent… | [SAFE](https://agentskillshub.top/skill/asgard-ai-platform/skills/) |
 | [willynikes2/knowledge-base-server](https://github.com/willynikes2/knowledge-base-server) | 191 | AI agent 持久化记忆，支持 SQLite FTS5、MCP server、Obsidian sync 和 self-learning intellig… | [SAFE](https://agentskillshub.top/skill/willynikes2/knowledge-base-server/) |
 | [MLT-OSS/FirstData](https://github.com/MLT-OSS/FirstData) | 186 | The World's Most Comprehensive, Authoritative, and Structured Open Source Data Source Knowledge Base | [SAFE](https://agentskillshub.top/skill/MLT-OSS/FirstData/) |
-| [ascend-ai-coding/awesome-ascend-skills](https://github.com/ascend-ai-coding/awesome-ascend-skills) | 180 | 面向华为 Ascend NPU 开发的知识库，以分布式 Agent Skills 组织。 | [SAFE](https://agentskillshub.top/skill/ascend-ai-coding/awesome-ascend-skills/) |
+| [ascend-ai-coding/awesome-ascend-skills](https://github.com/ascend-ai-coding/awesome-ascend-skills) | 181 | 面向华为 Ascend NPU 开发的知识库，以分布式 Agent Skills 组织。 | [SAFE](https://agentskillshub.top/skill/ascend-ai-coding/awesome-ascend-skills/) |
 | [ali-kamali/Axon.MCP.Server](https://github.com/ali-kamali/Axon.MCP.Server) | 166 | 将代码库转为智能知识库，供 Cursor IDE、Google AntiGravity 和支持 MCP 的助手进行 AI 开发 | [SAFE](https://agentskillshub.top/skill/ali-kamali/Axon.MCP.Server/) |
 | [jztan/pdf-mcp](https://github.com/jztan/pdf-mcp) | 165 | MCP server让 Claude Code和其他AI agent读取搜索大型PDF及文件夹，支持agentic RAG、混合搜索、按页读取、表格、图片、O… | [SAFE](https://agentskillshub.top/skill/jztan/pdf-mcp/) |
 | [0xchamin/mcptube](https://github.com/0xchamin/mcptube) | 164 | 将 YouTube 视频转为可积累的知识库，支持文字稿、视觉分析和 agent 搜索。作为 MCP server 支持 Claude、Copilot 等。 | [SAFE](https://agentskillshub.top/skill/0xchamin/mcptube/) |
@@ -257,11 +258,10 @@
 | [alex09x/kyb](https://github.com/alex09x/kyb) | 127 | Git 支持的 AI agent 集群共享记忆：可搜索知识库、事件与任务跟踪，所有写入均版本化并标注来源。提供 CLI、HTTP API 和 MCP serv… | [SAFE](https://agentskillshub.top/skill/alex09x/kyb/) |
 | [uudam42/agent-memory-engine](https://github.com/uudam42/agent-memory-engine) | 127 | Memory Engine 是本地优先的 MCP server，为 coding agents 提供持久项目记忆；自动构建知识库，检索架构、约束、事故和相关源… | [SAFE](https://agentskillshub.top/skill/uudam42/agent-memory-engine/) |
 | [byenzyme/enzyme](https://github.com/byenzyme/enzyme) | 126 | 面向知识库的本地优先编译步骤，较前沿模型成本降低350倍、速度提升1000倍 | [SAFE](https://agentskillshub.top/skill/byenzyme/enzyme/) |
-| [BingoWon/apple-rag-mcp](https://github.com/BingoWon/apple-rag-mcp) | 121 | Apple 开发者文档和 WWDC 演讲稿，支持 RAG 检索与 Jev 相关性排序。 | [SAFE](https://agentskillshub.top/skill/BingoWon/apple-rag-mcp/) |
 | [plasma-ai/wiki](https://github.com/plasma-ai/wiki) | 107 | 为 agent 提供带索引的知识库和命令行工具。 | [SAFE](https://agentskillshub.top/skill/plasma-ai/wiki/) |
 | [IvenKooLab/loci](https://github.com/IvenKooLab/loci) | 101 | 可查询的第二大脑，整合分散的笔记和文档：混合检索（向量+BM25）、章节级引用，支持 AI agents 使用 MCP server。约300行，无需 Lan… | [SAFE](https://agentskillshub.top/skill/IvenKooLab/loci/) |
 | [Tubo2333/obsidian-knowledge-brain](https://github.com/Tubo2333/obsidian-knowledge-brain) | 101 | 记忆技术决策和错误修复并跨会话学习的 AI agent skill。v4.0，MIT | [SAFE](https://agentskillshub.top/skill/Tubo2333/obsidian-knowledge-brain/) |
-| [AIPMAndy/dna-memory](https://github.com/AIPMAndy/dna-memory) | 99 | 本地优先的统一记忆 MCP，供 Claude Code、Codex、Hermes 和 AI agent 共用 Markdown 记忆 | [SAFE](https://agentskillshub.top/skill/AIPMAndy/dna-memory/) |
+| [AIPMAndy/dna-memory](https://github.com/AIPMAndy/dna-memory) | 100 | 本地优先的统一记忆 MCP，供 Claude Code、Codex、Hermes 和 AI agent 共用 Markdown 记忆 | [SAFE](https://agentskillshub.top/skill/AIPMAndy/dna-memory/) |
 | [seacen/omem](https://github.com/seacen/omem) | 86 | OMem—本地优先记忆，自动导入邮件、日历、笔记、文件至 Markdown wiki，供 AI agent 查询。支持 macOS，Windows 即将支持。 | [SAFE](https://agentskillshub.top/skill/seacen/omem/) |
 | [Asklear/Klear-Team-Brain](https://github.com/Asklear/Klear-Team-Brain) | 83 | 将团队的 AI 编程会话、GitHub 代码和文档整合为共享可搜索记忆的自托管 Git 事实库，可在编辑器中通过 MCP 查询 | [SAFE](https://agentskillshub.top/skill/Asklear/Klear-Team-Brain/) |
 | [hassancs91/brainoutside](https://github.com/hassancs91/brainoutside) | 77 | 面向 AI agent 的自托管记忆服务器。你的大脑是 git 仓库，通过 MCP 和 REST 提供服务。 | [SAFE](https://agentskillshub.top/skill/hassancs91/brainoutside/) |
@@ -270,7 +270,7 @@
 | [liangdabiao/deepseek-v4-flash-vision-video-rag](https://github.com/liangdabiao/deepseek-v4-flash-vision-video-rag) | 73 | DeepSeek V4-Flash Vision Video RAG：让AI理解视频并回答问题，附[MM:SS]时间戳、片段、关键帧和HTML预览。 | [SAFE](https://agentskillshub.top/skill/liangdabiao/deepseek-v4-flash-vision-video-rag/) |
 | [nozomio-labs/nia](https://github.com/nozomio-labs/nia) | 73 | Nia 是面向 agent 的上下文增强层，主要为 coding agent 提供最新知识库。 | [SAFE](https://agentskillshub.top/skill/nozomio-labs/nia/) |
 | [Geeksfino/kb-mcp-server](https://github.com/Geeksfino/kb-mcp-server) | 72 | 将知识库打包为 tar.gz 并交给此 MCP 服务器，即可提供服务。 | [CAUTION](https://agentskillshub.top/skill/Geeksfino/kb-mcp-server/) |
-| [ccf/agentcairn](https://github.com/ccf/agentcairn) | 70 | 面向 AI coding agents 的长期跨项目记忆。以你自己的 Obsidian vault 为依据，无需 daemon 或不透明数据库，记忆归你所有。 | [UNSAFE](https://agentskillshub.top/skill/ccf/agentcairn/) |
+| [ccf/agentcairn](https://github.com/ccf/agentcairn) | 71 | 面向 AI coding agents 的长期跨项目记忆。以你自己的 Obsidian vault 为依据，无需 daemon 或不透明数据库，记忆归你所有。 | [UNSAFE](https://agentskillshub.top/skill/ccf/agentcairn/) |
 | [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | 70 | 面向 coding agent 的检索工具，无模型参与：通过 MCP 提供会话目录中的文件、search、read、code_pack 和 write_not… | [SAFE](https://agentskillshub.top/skill/kiycoh/silica-core/) |
 | [tobocop2/lilbee](https://github.com/tobocop2/lilbee) | 68 | 单个可执行文件管理多GPU本地AI模型，基于文件、代码和网页提供带引用的对话搜索；含MCP、TUI、CLI和API，兼容Ollama、LM Studio。 | [SAFE](https://agentskillshub.top/skill/tobocop2/lilbee/) |
 | [hermes-labs-ai/zer0dex](https://github.com/hermes-labs-ai/zer0dex) | 64 | AI agent 的本地双层记忆：可读 Markdown 索引结合本地向量库语义检索，每次消息前查询。支持跨项目回忆，弥补扁平记忆文件或纯向量 RAG 的不足… | [SAFE](https://agentskillshub.top/skill/hermes-labs-ai/zer0dex/) |
@@ -293,6 +293,7 @@
 | [arpitnath/blink-query](https://github.com/arpitnath/blink-query) | 12 | 面向 LLMs 的类型化 wiki：Markdown 存于磁盘，在库中解析。 | [SAFE](https://agentskillshub.top/skill/arpitnath/blink-query/) |
 | [Albertchamberlain/Awesome-OKF](https://github.com/Albertchamberlain/Awesome-OKF) | 10 | OKF（Open Knowledge Format）——面向 agent 的工具、插件、skill、提案和文档目录，由 YAML 驱动，支持 agent 搜索… | [SAFE](https://agentskillshub.top/skill/Albertchamberlain/Awesome-OKF/) |
 | [AlexanderAbramovPav/youtube-advisor](https://github.com/AlexanderAbramovPav/youtube-advisor) | 10 | 从任意 YouTube 频道构建 AI 顾问 SKILL：转录文本、BM25 + 语义 RAG、带时间戳的逐字引用。 | [SAFE](https://agentskillshub.top/skill/AlexanderAbramovPav/youtube-advisor/) |
+| [THUboran/china-law-mcp](https://github.com/THUboran/china-law-mcp) | 8 | 中国法律条文 MCP 服务器：378部法律、23,995条现行法条检索与引用核验，支持LLM | [SAFE](https://agentskillshub.top/skill/THUboran/china-law-mcp/) |
 | [docouno/notarium](https://github.com/docouno/notarium) | 5 | 面向人类和 AI agent 的文件优先知识库：自托管 Markdown 笔记、网页编辑器和内置 MCP server。 | [SAFE](https://agentskillshub.top/skill/docouno/notarium/) |
 | [pillumina/ascend-sleuth](https://github.com/pillumina/ascend-sleuth) | 5 | 知识驱动的 Ascend 训练/推理诊断 skill 套件，含 5 个 skill、三级知识库，遵循 Agent Skills 标准 | [SAFE](https://agentskillshub.top/skill/pillumina/ascend-sleuth/) |
 
@@ -303,29 +304,29 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 36.8k | 将技术书籍 PDF 转为 Claude Code skill，便于学习、查阅和工作中使用。 | [SAFE](https://agentskillshub.top/skill/virgiliojr94/book-to-skill/) |
+| [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) | 36.9k | 将技术书籍 PDF 转为 Claude Code skill，便于学习、查阅和工作中使用。 | [SAFE](https://agentskillshub.top/skill/virgiliojr94/book-to-skill/) |
 | [decodingai-magazine/second-brain-ai-assistant-course](https://github.com/decodingai-magazine/second-brain-ai-assistant-course) | 3.1k | Learn to build your Second Brain AI assistant with LLMs, agents, RAG, fine-tuning, LLMOps and AI systems techniques. | [SAFE](https://agentskillshub.top/skill/decodingai-magazine/second-brain-ai-assistant-course/) |
 | [mrsibe/KnowNote](https://github.com/mrsibe/KnowNote) | 1.2k | 基于 Electron 构建的本地优先 AI 知识库和 NotebookLM 替代品 | [SAFE](https://agentskillshub.top/skill/mrsibe/KnowNote/) |
-| [fcakyon/autollm](https://github.com/fcakyon/autollm) | 1.0k | 几秒发布基于 RAG 的 LLM 网页应用。 | [*待评级*](https://agentskillshub.top/skill/fcakyon/autollm/) |
-| [IncarnaMind/IncarnaMind](https://github.com/IncarnaMind/IncarnaMind) | 849 | 会核查自身引用的 AI 笔记本。可向 PDF、Word 文件、幻灯片和表格提问，回答引用具体页码。开源桌面应用。 | [SAFE](https://agentskillshub.top/skill/IncarnaMind/IncarnaMind/) |
+| [fcakyon/autollm](https://github.com/fcakyon/autollm) | 1.0k | 几秒内发布基于 RAG 的 LLM Web 应用。 | [SAFE](https://agentskillshub.top/skill/fcakyon/autollm/) |
+| [IncarnaMind/IncarnaMind](https://github.com/IncarnaMind/IncarnaMind) | 850 | 会核查自身引用的 AI 笔记本。可向 PDF、Word 文件、幻灯片和表格提问，回答引用具体页码。开源桌面应用。 | [SAFE](https://agentskillshub.top/skill/IncarnaMind/IncarnaMind/) |
 | [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight) | 673 | RAGLight 是用于 Retrieval-Augmented Generation（RAG）的模块化框架，支持接入不同 LLM、embeddings、ve… | [SAFE](https://agentskillshub.top/skill/Bessouat40/RAGLight/) |
-| [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) | 645 | 本地及自托管文档搜索的 agentic RAG：混合检索、重排序、多模态 RAG，基于嵌入式 LanceDB，支持 Docling 解析和 MCP server | [SAFE](https://agentskillshub.top/skill/ggozad/haiku.rag/) |
+| [ggozad/haiku.rag](https://github.com/ggozad/haiku.rag) | 646 | 本地及自托管文档搜索的 agentic RAG：混合检索、重排序、多模态 RAG，基于嵌入式 LanceDB，支持 Docling 解析和 MCP server | [SAFE](https://agentskillshub.top/skill/ggozad/haiku.rag/) |
 | [iamzulx/crypto-rag](https://github.com/iamzulx/crypto-rag) | 465 | 印尼语加密货币助手：267个主题RAG知识库+实时市场数据（6家交易所、WebSocket、衍生品、链上、TVL、DeFi）+工具调用agent+LLM合成 | [SAFE](https://agentskillshub.top/skill/iamzulx/crypto-rag/) |
-| [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | 364 | A-RAG：通过分层检索接口实现的智能体检索增强生成框架，提供关键词、语义和分块读取工具，支持多跳问答。 | [SAFE](https://agentskillshub.top/skill/Ayanami0730/arag/) |
-| [2dogsandanerd/Knowledge-Base-Self-Hosting-Kit](https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit) | 355 | 基于 Docker 的 RAG 系统，可区分代码与文档，支持导入代码库和文档后查询。 | [SAFE](https://agentskillshub.top/skill/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit/) |
+| [Ayanami0730/arag](https://github.com/Ayanami0730/arag) | 363 | A-RAG：通过分层检索接口实现的智能体检索增强生成框架，提供关键词、语义和分块读取工具，支持多跳问答。 | [SAFE](https://agentskillshub.top/skill/Ayanami0730/arag/) |
+| [2dogsandanerd/Knowledge-Base-Self-Hosting-Kit](https://github.com/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit) | 356 | 基于 Docker 的 RAG 系统，可区分代码与文档，支持导入代码库和文档后查询。 | [SAFE](https://agentskillshub.top/skill/2dogsandanerd/Knowledge-Base-Self-Hosting-Kit/) |
 | [software-mansion-labs/react-native-rag](https://github.com/software-mansion-labs/react-native-rag) | 349 | 私有本地 RAG，使用自己的知识库增强 LLM | [SAFE](https://agentskillshub.top/skill/software-mansion-labs/react-native-rag/) |
-| [lhh737/KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) | 297 | 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 项目，支持本地知识库上传、检索问答和聊天交互。 | [SAFE](https://agentskillshub.top/skill/lhh737/KnowledgeBase-RAG-LLM-System/) |
+| [lhh737/KnowledgeBase-RAG-LLM-System](https://github.com/lhh737/KnowledgeBase-RAG-LLM-System) | 298 | 基于 Streamlit、LangChain 与 Chroma 的轻量级 RAG 项目，支持本地知识库上传、检索问答和聊天交互。 | [SAFE](https://agentskillshub.top/skill/lhh737/KnowledgeBase-RAG-LLM-System/) |
 | [Laurent00TT/PharosRAG](https://github.com/Laurent00TT/PharosRAG) | 241 | Pharos：本地优先的 agentic RAG，支持多格式导入、混合检索、企业 ACL 及 HTTP、MCP 接口 | [SAFE](https://agentskillshub.top/skill/Laurent00TT/PharosRAG/) |
 | [aws-samples/serverless-rag-demo](https://github.com/aws-samples/serverless-rag-demo) | 223 | Amazon Bedrock 基础模型与 Amazon Opensearch Serverless 向量数据库 | [SAFE](https://agentskillshub.top/skill/aws-samples/serverless-rag-demo/) |
+| [Lvyizhuo/MyProject-SDAgent](https://github.com/Lvyizhuo/MyProject-SDAgent) | 152 | Spring AI构建AI政策通与ReAct智能体LvManus，涵盖大模型、RAG、MCP、Ollama、多模态、Tavily、Docker、Nginx。 | [SAFE](https://agentskillshub.top/skill/Lvyizhuo/MyProject-SDAgent/) |
 | [JetXu-LLM/DocMason](https://github.com/JetXu-LLM/DocMason) | 151 | DocMason是仓库原生agent，将办公文件转为本地LLM知识库。仓库即应用，Codex是运行时。 | [SAFE](https://agentskillshub.top/skill/JetXu-LLM/DocMason/) |
-| [Lvyizhuo/MyProject-SDAgent](https://github.com/Lvyizhuo/MyProject-SDAgent) | 150 | Spring AI构建AI政策通与ReAct智能体LvManus，涵盖大模型、RAG、MCP、Ollama、多模态、Tavily、Docker、Nginx。 | [SAFE](https://agentskillshub.top/skill/Lvyizhuo/MyProject-SDAgent/) |
 | [Francis1998/scholar-rag-agent](https://github.com/Francis1998/scholar-rag-agent) | 149 | 本地优先的科学文献 RAG，支持引文锚定证据标注、人工筛选、固化溯源和无模型研究工作表。 | [SAFE](https://agentskillshub.top/skill/Francis1998/scholar-rag-agent/) |
 | [guhcostan/claude-mega-brain](https://github.com/guhcostan/claude-mega-brain) | 128 | OKF 驱动的 Claude Code 知识上下文，每次会话注入项目知识库 | [SAFE](https://agentskillshub.top/skill/guhcostan/claude-mega-brain/) |
 | [moyangzhan/langchain4j-aideepin-admin](https://github.com/moyangzhan/langchain4j-aideepin-admin) | 119 | Java版检索增强生成（RAG）项目，包含知识库和搜索 | [SAFE](https://agentskillshub.top/skill/moyangzhan/langchain4j-aideepin-admin/) |
 | [flamehaven01/Flamehaven-Filesearch](https://github.com/flamehaven01/Flamehaven-Filesearch) | 109 | 开源语义文档搜索（RAG）引擎，基于 FastAPI，可即时自行部署 | [SAFE](https://agentskillshub.top/skill/flamehaven01/Flamehaven-Filesearch/) |
 | [aws-samples/aws-agentic-document-assistant](https://github.com/aws-samples/aws-agentic-document-assistant) | 97 | 基于 agent 的 LLM 助手，通过批量实体提取和 SQL 查询扩展 RAG，提升多步骤和分析类问题的性能。 | [SAFE](https://agentskillshub.top/skill/aws-samples/aws-agentic-document-assistant/) |
 | [dukesun99/Corpus2Skill](https://github.com/dukesun99/Corpus2Skill) | 96 | EMNLP 2026 官方结论：Corpus2Skill 将文档语料编译为可导航的 skill 层级，供 LLM agent 查询时探索，用文档查找替代服务时… | [SAFE](https://agentskillshub.top/skill/dukesun99/Corpus2Skill/) |
-| [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) | 89 | DeepSeek Harness (DSH) 知识库与 RAG 插件：分块、本地嵌入、混合搜索、管理面板 | [SAFE](https://agentskillshub.top/skill/Soren-ABT/dsh-knowledge/) |
+| [Soren-ABT/dsh-knowledge](https://github.com/Soren-ABT/dsh-knowledge) | 90 | DeepSeek Harness (DSH) 知识库与 RAG 插件：分块、本地嵌入、混合搜索、管理面板 | [SAFE](https://agentskillshub.top/skill/Soren-ABT/dsh-knowledge/) |
 | [georgesung/LLM-WikipediaQA](https://github.com/georgesung/LLM-WikipediaQA) | 85 | 使用大语言模型对维基百科文章进行问答 | [SAFE](https://agentskillshub.top/skill/georgesung/LLM-WikipediaQA/) |
 | [phoenix-zhou/logistics-industry-RAG](https://github.com/phoenix-zhou/logistics-industry-RAG) | 85 | 基于 RAG（检索增强生成）技术的本地知识库“物流行业”问答系统。 | [SAFE](https://agentskillshub.top/skill/phoenix-zhou/logistics-industry-RAG/) |
 | [kevins981/Socratic](https://github.com/kevins981/Socratic) | 83 | Socratic 是构建垂直 AI agent 的框架，专家可通过交互教学将隐性知识转化为持续改进的知识库。 | [CAUTION](https://agentskillshub.top/skill/kevins981/Socratic/) |
@@ -350,7 +351,7 @@
 
 | 仓库 | 星数 | 做什么 | 安全评级 |
 |---|---:|---|---|
-| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 76.2k | 预索引代码知识图谱，代码变更自动同步，适用于 Claude Code 等，减少令牌和工具调用，本地运行 | [SAFE](https://agentskillshub.top/skill/colbymchenry/codegraph/) |
+| [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) | 76.4k | 预索引代码知识图谱，代码变更自动同步，适用于 Claude Code 等，减少令牌和工具调用，本地运行 | [SAFE](https://agentskillshub.top/skill/colbymchenry/codegraph/) |
 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 40.5k | [EMNLP2025] LightRAG：检索增强生成 | [SAFE](https://agentskillshub.top/skill/HKUDS/LightRAG/) |
 | [topoteretes/cognee](https://github.com/topoteretes/cognee) | 33.0k | Cognee 是面向 agent 的开源 AI 记忆平台，用小模型为 AI agent 提供持久长期记忆 | [SAFE](https://agentskillshub.top/skill/topoteretes/cognee/) |
 | [OpenSPG/KAG](https://github.com/OpenSPG/KAG) | 9.1k | KAG 是基于 OpenSPG 引擎和 LLMs 的逻辑形式引导推理与检索框架，用于构建专业领域知识库的逻辑推理和事实问答解决方案，可克服传统 RAG 向量相… | [SAFE](https://agentskillshub.top/skill/OpenSPG/KAG/) |
@@ -365,17 +366,17 @@
 | [yuezhiai/jonex](https://github.com/yuezhiai/jonex) | 1.6k | 多模态解析引擎与基于本体、LLM Wiki 驱动的 AI 知识引擎 | [SAFE](https://agentskillshub.top/skill/yuezhiai/jonex/) |
 | [apecloud/ApeRAG](https://github.com/apecloud/ApeRAG) | 1.3k | ApeRAG：支持多模态索引、AI agents、MCP 和可扩展 K8s 部署的 GraphRAG | [SAFE](https://agentskillshub.top/skill/apecloud/ApeRAG/) |
 | [BaranziniLab/KG_RAG](https://github.com/BaranziniLab/KG_RAG) | 948 | 使用基于知识图谱的检索增强生成（KG-RAG）增强大语言模型（LLM）处理知识密集型任务的能力 | [SAFE](https://agentskillshub.top/skill/BaranziniLab/KG_RAG/) |
-| [Jakedismo/codegraph-rust](https://github.com/Jakedismo/codegraph-rust) | 910 | 基于 Rust 的 code graphRAG，实现 AST+FastML 解析、surrealDB 后端及通过 MCP 提供代码分析工具，用于 code a… | [SAFE](https://agentskillshub.top/skill/Jakedismo/codegraph-rust/) |
-| [Deodat-Lawson/LaunchStack](https://github.com/Deodat-Lawson/LaunchStack) | 895 | 基于 AI 的创业加速引擎，使用 Next.js、LangChain、PostgreSQL + pgvector 构建。支持上传、整理并与文档对话，提供缺失文… | [SAFE](https://agentskillshub.top/skill/Deodat-Lawson/LaunchStack/) |
+| [Jakedismo/codegraph-rust](https://github.com/Jakedismo/codegraph-rust) | 911 | 基于 Rust 的 code graphRAG，实现 AST+FastML 解析、surrealDB 后端及通过 MCP 提供代码分析工具，用于 code a… | [SAFE](https://agentskillshub.top/skill/Jakedismo/codegraph-rust/) |
+| [Deodat-Lawson/LaunchStack](https://github.com/Deodat-Lawson/LaunchStack) | 897 | 基于 AI 的创业加速引擎，使用 Next.js、LangChain、PostgreSQL + pgvector 构建。支持上传、整理并与文档对话，提供缺失文… | [SAFE](https://agentskillshub.top/skill/Deodat-Lawson/LaunchStack/) |
 | [verygoodplugins/automem](https://github.com/verygoodplugins/automem) | 826 | AI 助手的长期记忆，通过图和向量存储跨会话记住决策、关系和上下文。 | [SAFE](https://agentskillshub.top/skill/verygoodplugins/automem/) |
-| [GD4AI/obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki) | 767 | Karpathy 的 LLM Wiki Obsidian 插件：将笔记和 PDF 转为关联知识库，支持实体页、概念页、图谱问答和本地隐私。 | [SAFE](https://agentskillshub.top/skill/GD4AI/obsidian-llm-wiki/) |
-| [agentic-box/memora](https://github.com/agentic-box/memora) | 746 | 为 AI agents 提供持久共享记忆，支持去重吸收、替代谱系、语义搜索和图形界面，支持 MCP。 | [SAFE](https://agentskillshub.top/skill/agentic-box/memora/) |
-| [FengZhenfei/carrel](https://github.com/FengZhenfei/carrel) | 701 | Ontology-Augmented Generation for AI agents. | [SAFE](https://agentskillshub.top/skill/FengZhenfei/carrel/) |
+| [GD4AI/obsidian-llm-wiki](https://github.com/GD4AI/obsidian-llm-wiki) | 771 | Karpathy 的 LLM Wiki Obsidian 插件：将笔记和 PDF 转为关联知识库，支持实体页、概念页、图谱问答和本地隐私。 | [SAFE](https://agentskillshub.top/skill/GD4AI/obsidian-llm-wiki/) |
+| [agentic-box/memora](https://github.com/agentic-box/memora) | 747 | 为 AI agents 提供持久共享记忆，支持去重吸收、替代谱系、语义搜索和图形界面，支持 MCP。 | [SAFE](https://agentskillshub.top/skill/agentic-box/memora/) |
+| [FengZhenfei/carrel](https://github.com/FengZhenfei/carrel) | 718 | Ontology-Augmented Generation for AI agents. | [SAFE](https://agentskillshub.top/skill/FengZhenfei/carrel/) |
 | [xoai/sage-wiki](https://github.com/xoai/sage-wiki) | 645 | sage-wiki 是 AI agents 与人共同构建和查询的图谱记忆库。上传文档，LLM compiler 将其转为互联 wiki 和知识图谱。Go 二进… | [SAFE](https://agentskillshub.top/skill/xoai/sage-wiki/) |
 | [benmaster82/Kwipu](https://github.com/benmaster82/Kwipu) | 612 | 本地 Graph RAG 查询 Markdown，支持 Obsidian；解析 wikilinks/YAML，使用混合检索；多语言，用 Ollama，无云端 | [SAFE](https://agentskillshub.top/skill/benmaster82/Kwipu/) |
 | [Beever-AI/beever-atlas](https://github.com/Beever-AI/beever-atlas) | 451 | LLM-Wiki 对话知识库 | [SAFE](https://agentskillshub.top/skill/Beever-AI/beever-atlas/) |
 | [awslabs/graphrag-toolkit](https://github.com/awslabs/graphrag-toolkit) | 451 | 用于构建图增强型生成式 AI 应用的 Python 工具包 | [SAFE](https://agentskillshub.top/skill/awslabs/graphrag-toolkit/) |
-| [zhuzhaoyun/Molio](https://github.com/zhuzhaoyun/Molio) | 442 | 面向 AI agents 的本地优先个人知识层。用 LLM Wiki、知识图谱和 agent 工作流构建持续演进的知识空间。 | [CAUTION](https://agentskillshub.top/skill/zhuzhaoyun/Molio/) |
+| [zhuzhaoyun/Molio](https://github.com/zhuzhaoyun/Molio) | 446 | 面向 AI agents 的本地优先个人知识层。用 LLM Wiki、知识图谱和 agent 工作流构建持续演进的知识空间。 | [CAUTION](https://agentskillshub.top/skill/zhuzhaoyun/Molio/) |
 | [aayoawoyemi/Ori-Mnemos](https://github.com/aayoawoyemi/Ori-Mnemos) | 335 | 由 Recursive Memory Harness（RMH）驱动的本地优先持久化 agent 记忆 | [SAFE](https://agentskillshub.top/skill/aayoawoyemi/Ori-Mnemos/) |
 | [Qingyon-AI/Revornix](https://github.com/Qingyon-AI/Revornix) | 292 | Revornix 是开源、本地优先的 AI 信息/Markdown 工作区，可收集零散输入，整理为结构化知识，生成图文报告和播客音频，并通过自动通知发送。 | [SAFE](https://agentskillshub.top/skill/Qingyon-AI/Revornix/) |
 | [HarimxChoi/google-surf-mcp](https://github.com/HarimxChoi/google-surf-mcp) | 291 | 将 Google Search、论文和代码库自动转为供 AI agent 使用的本地知识图谱。 | [SAFE](https://agentskillshub.top/skill/HarimxChoi/google-surf-mcp/) |
@@ -387,7 +388,7 @@
 | [EduardTalianu/erag](https://github.com/EduardTalianu/erag) | 212 | 支持 RAG 混合搜索、对话上下文、网页内容处理及基于 LLM/GPT 的结构化数据分析的 AI 交互工具 | [SAFE](https://agentskillshub.top/skill/EduardTalianu/erag/) |
 | [stevereiner/flexible-graphrag](https://github.com/stevereiner/flexible-graphrag) | 196 | 支持Python、LlamaIndex、LangChain、GraphRAG、RAG、MCP Server；14个数据源（10个自动同步）、知识图谱自动构建 | [SAFE](https://agentskillshub.top/skill/stevereiner/flexible-graphrag/) |
 | [Graph-COM/SubgraphRAG](https://github.com/Graph-COM/SubgraphRAG) | 187 | [ICLR 2025] 简单有效：图和大语言模型在基于知识图谱的检索增强生成中的作用 | [SAFE](https://agentskillshub.top/skill/Graph-COM/SubgraphRAG/) |
-| [serradura/okf](https://github.com/serradura/okf) | 181 | OKF：为 AI agent 提供本地持久化结构化记忆，通过 Skills、MCP、图谱、TUI、CLI、Docker 和 Claude Code plugi… | [SAFE](https://agentskillshub.top/skill/serradura/okf/) |
+| [serradura/okf](https://github.com/serradura/okf) | 180 | OKF：为 AI agent 提供本地持久化结构化记忆，通过 Skills、MCP、图谱、TUI、CLI、Docker 和 Claude Code plugi… | [SAFE](https://agentskillshub.top/skill/serradura/okf/) |
 | [Nazm-AI/open-hikmah](https://github.com/Nazm-AI/open-hikmah) | 179 | AI驱动的《古兰经》知识图谱：将经文置于画布上，探索主题、语言和神学关联。 | [SAFE](https://agentskillshub.top/skill/Nazm-AI/open-hikmah/) |
 | [entanglr/zettelkasten-mcp](https://github.com/entanglr/zettelkasten-mcp) | 168 | 实现 Zettelkasten 知识管理方法的 MCP 服务器，可通过 Claude 等 MCP 客户端创建、链接、探索和综合原子笔记 | [SAFE](https://agentskillshub.top/skill/entanglr/zettelkasten-mcp/) |
 | [Haaaiawd/Nexus-skills](https://github.com/Haaaiawd/Nexus-skills) | 167 | 面向 AI 编程助手的代码库分析 skill，生成 .nexus-map/ 知识库，查询文件结构、依赖图和变更影响。 | [SAFE](https://agentskillshub.top/skill/Haaaiawd/Nexus-skills/) |
@@ -407,7 +408,7 @@
 | [trapoom555/claude-paperloom](https://github.com/trapoom555/claude-paperloom) | 96 | 用于 Claude Code + Obsidian 自维护研究知识图谱的插件 | [SAFE](https://agentskillshub.top/skill/trapoom555/claude-paperloom/) |
 | [wanxueyao/MMGraphRAG](https://github.com/wanxueyao/MMGraphRAG) | 94 | MMGraphRAG是用于多模态文档问答等复杂推理的多模态知识图谱框架，将文本和图像整合为细粒度结构化知识图谱，并结合场景图与谱聚类融合模块。 | [SAFE](https://agentskillshub.top/skill/wanxueyao/MMGraphRAG/) |
 | [The-AI-Alliance/semiont](https://github.com/The-AI-Alliance/semiont) | 93 | Semiont支持人与AI协作知识工作，可用作Wiki、知识库、上下文图、语义层或Agentic Memory。 | [SAFE](https://agentskillshub.top/skill/The-AI-Alliance/semiont/) |
-| [HKUST-KnowComp/DeepRefine-Skill](https://github.com/HKUST-KnowComp/DeepRefine-Skill) | 91 | 用于在测试时提升 LLM-Wiki（Graphify）质量的 agent skill。 | [SAFE](https://agentskillshub.top/skill/HKUST-KnowComp/DeepRefine-Skill/) |
+| [HKUST-KnowComp/DeepRefine-Skill](https://github.com/HKUST-KnowComp/DeepRefine-Skill) | 90 | 用于在测试时提升 LLM-Wiki（Graphify）质量的 agent skill。 | [SAFE](https://agentskillshub.top/skill/HKUST-KnowComp/DeepRefine-Skill/) |
 | [SenolIsci/mykg](https://github.com/SenolIsci/mykg) | 82 | MyKG 知识图谱引擎：将原始文件转化为带归纳本体的知识图谱 | [SAFE](https://agentskillshub.top/skill/SenolIsci/mykg/) |
 | [gavishap/omnia-vault](https://github.com/gavishap/omnia-vault) | 82 | Omnia Vault：Obsidian LLM wiki、Graphify 代码图谱、新视频自评动态计划和 Claude Code ⇄ Codex 中继。 | [SAFE](https://agentskillshub.top/skill/gavishap/omnia-vault/) |
 | [cybaea/obsidian-vault-intelligence](https://github.com/cybaea/obsidian-vault-intelligence) | 79 | Obsidian 知识库智能 | [SAFE](https://agentskillshub.top/skill/cybaea/obsidian-vault-intelligence/) |
@@ -420,9 +421,10 @@
 | [olafgeibig/knowledge-mcp](https://github.com/olafgeibig/knowledge-mcp) | 59 | 一个本地运行的知识库 MCP server，使用基于 LightRAG 的混合向量与图 RAG 引擎 | [SAFE](https://agentskillshub.top/skill/olafgeibig/knowledge-mcp/) |
 | [AndrewNgo-ini/memoose](https://github.com/AndrewNgo-ini/memoose) | 58 | 面向主动式 agent 的双路径记忆系统。事实和流程存储于本地知识图谱，通过 CLI、MCP tools 和 skills 提供访问。无需 API key。 | [SAFE](https://agentskillshub.top/skill/AndrewNgo-ini/memoose/) |
 | [laramohan/wikillm](https://github.com/laramohan/wikillm) | 58 | 将 LLM 作为协作编辑的知识库 | [CAUTION](https://agentskillshub.top/skill/laramohan/wikillm/) |
-| [bodepudimuneendra-netizen/laya-jev-GraphRAG](https://github.com/bodepudimuneendra-netizen/laya-jev-GraphRAG) | 53 | 数据库无关的 Agentic GraphRAG 框架，支持切换 System One 模型（本地 Laya/云端 Jev），含四阶段流程、持续评估和自定义 A… | [SAFE](https://agentskillshub.top/skill/bodepudimuneendra-netizen/laya-jev-GraphRAG/) |
+| [bodepudimuneendra-netizen/ConsciousDB](https://github.com/bodepudimuneendra-netizen/ConsciousDB) | 53 | 兼容任意数据库的 Agentic GraphRAG 框架，支持切换 System One 模型（本地 Laya/云端 Jev），提供四阶段流程、持续评估和自定… | [SAFE](https://agentskillshub.top/skill/bodepudimuneendra-netizen/ConsciousDB/) |
 | [iikarus/Dragon-Brain](https://github.com/iikarus/Dragon-Brain) | 51 | Dragon Brain：MCP长期记忆，结合FalkorDB图谱、Qdrant向量与CUDA GPU embeddings；30工具、1121测试 | [SAFE](https://agentskillshub.top/skill/iikarus/Dragon-Brain/) |
 | [lesteroliver911/contextual-chunking-graphpowered-rag](https://github.com/lesteroliver911/contextual-chunking-graphpowered-rag) | 50 | 结合语义向量搜索与基于 token 的搜索，采用上下文分块和知识图谱提升准确性，并通过 LLM 答案校验和图谱可视化提供精准查询结果。 | [SAFE](https://agentskillshub.top/skill/lesteroliver911/contextual-chunking-graphpowered-rag/) |
+| [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) | 50 | 文档、内部机器人和 AI agent 的一键知识系统 | [SAFE](https://agentskillshub.top/skill/mlimarenko/IronRAG/) |
 | [streamient/streamient](https://github.com/streamient/streamient) | 49 | 面向 AI 与人类的开源记忆基础设施，将分散知识转为适用于 Claude、Cursor、ChatGPT 和 MCP 客户端的上下文。 | [SAFE](https://agentskillshub.top/skill/streamient/streamient/) |
 | [boykush/scraps](https://github.com/boykush/scraps) | 45 | 面向大语言模型时代的 Wiki 链接文档编译器。 | [SAFE](https://agentskillshub.top/skill/boykush/scraps/) |
 | [mshtawythug/second-brain](https://github.com/mshtawythug/second-brain) | 16 | 本地知识库 CLI：FTS+pgvector、GraphRAG、LLM 增强；Ollama 本地，MCP 供 AI agent 查询，Quartz wiki。 | [SAFE](https://agentskillshub.top/skill/mshtawythug/second-brain/) |
@@ -440,8 +442,8 @@
 | [smixs/agent-second-brain](https://github.com/smixs/agent-second-brain) | 412 | 可随时对话的第二大脑。Telegram语音笔记转为Obsidian中的文字和关联知识，使用现有Claude订阅全天运行。 | [SAFE](https://agentskillshub.top/skill/smixs/agent-second-brain/) |
 | [xingranya/GitHub-Stars-AI-Tools](https://github.com/xingranya/GitHub-Stars-AI-Tools) | 110 | 本地优先的 AI 桌面应用，用于同步、摘要、标记、搜索和发现 GitHub Stars 项目。 | [SAFE](https://agentskillshub.top/skill/xingranya/GitHub-Stars-AI-Tools/) |
 | [tpierrain/kenjaku](https://github.com/tpierrain/kenjaku) | 94 | Kenjaku 是 Karpathy 风格的 LLM wiki，在关键处结合软件（包括本地 RAG）。 | [SAFE](https://agentskillshub.top/skill/tpierrain/kenjaku/) |
+| [deequoique/stashseek](https://github.com/deequoique/stashseek) | 68 | 与收藏的视频对话，获取带时间戳的答案并跳回原视频。浏览器扩展+MCP，支持自托管。 | [SAFE](https://agentskillshub.top/skill/deequoique/stashseek/) |
 | [The-Flash-7/open-note](https://github.com/The-Flash-7/open-note) | 60 | 跨平台智能笔记 Agent，支持多格式笔记、本地知识库、AI 助手和向量语义检索。 | [SAFE](https://agentskillshub.top/skill/The-Flash-7/open-note/) |
-| [deequoique/stashseek](https://github.com/deequoique/stashseek) | 58 | 与收藏的视频对话，获取带时间戳的答案并跳回原视频。浏览器扩展+MCP，支持自托管。 | [SAFE](https://agentskillshub.top/skill/deequoique/stashseek/) |
 | [andreasjansson/veta](https://github.com/andreasjansson/veta) | 9 | agent 的记忆和知识库，可在命令行或作为 Cloudflare worker 运行 | [SAFE](https://agentskillshub.top/skill/andreasjansson/veta/) |
 
 **安全评级**是 Agent Skills Hub 对仓库 README 和安装步骤的评级。*待评级*表示目录还没评到它。
@@ -458,4 +460,4 @@
 
 ---
 
-机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-02。
+机器可读版本:[`data/skills.json`](data/skills.json)。生成于 2026-11-03。

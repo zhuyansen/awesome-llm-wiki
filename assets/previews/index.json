@@ -1,14 +1,4 @@
 {
- "BingoWon/apple-rag-mcp": {
-  "repo": "BingoWon/apple-rag-mcp",
-  "url": "https://apple-rag.com/og-image-jev.png",
-  "alt": "Apple RAG MCP — Powered by Jev",
-  "score": -0.2,
-  "type": "image/png",
-  "bytes": 167752,
-  "file": "BingoWon__apple-rag-mcp.jpg",
-  "still": "BingoWon__apple-rag-mcp.jpg"
- },
  "HagaiHen/podcast-wiki": {
   "repo": "HagaiHen/podcast-wiki",
   "url": "https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif",
@@ -29,6 +19,16 @@
   "file": "MrDoe__OpenCodeRAG.jpg",
   "still": "MrDoe__OpenCodeRAG.jpg"
  },
+ "THUboran/china-law-mcp": {
+  "repo": "THUboran/china-law-mcp",
+  "url": "https://raw.githubusercontent.com/THUboran/china-law-mcp/HEAD/docs/demo.png",
+  "alt": "china-law-mcp 效果示例：检索相邻关系条文、核验民法典第 1254 条、批量核验一段文本中的三条引用",
+  "score": 1.35,
+  "type": "image/png",
+  "bytes": 300588,
+  "file": "THUboran__china-law-mcp.jpg",
+  "still": "THUboran__china-law-mcp.jpg"
+ },
  "alex09x/kyb": {
   "repo": "alex09x/kyb",
   "url": "https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png",
@@ -38,6 +38,16 @@
   "bytes": 1633907,
   "file": "alex09x__kyb.jpg",
   "still": "alex09x__kyb.jpg"
+ },
+ "ckryptickunal/OpenWiki": {
+  "repo": "ckryptickunal/OpenWiki",
+  "url": "https://raw.githubusercontent.com/ckryptickunal/OpenWiki/HEAD/site/img/launch-poster.jpg",
+  "alt": "Watch the 49-second OpenWiki commercial",
+  "score": 1.85,
+  "type": "image/jpeg",
+  "bytes": 36124,
+  "file": "ckryptickunal__OpenWiki.jpg",
+  "still": "ckryptickunal__OpenWiki.jpg"
  },
  "evergreen-it-dev/folio": {
   "repo": "evergreen-it-dev/folio",
@@ -78,6 +88,16 @@
   "bytes": 277600,
   "file": "mhmtsrfglu__superwiki.jpg",
   "still": "mhmtsrfglu__superwiki.jpg"
+ },
+ "mlimarenko/IronRAG": {
+  "repo": "mlimarenko/IronRAG",
+  "url": "https://raw.githubusercontent.com/mlimarenko/IronRAG/HEAD/docs/assets/readme-flow.gif",
+  "alt": "IronRAG demo in light and dark themes: document upload, graph layouts, and assis",
+  "score": 2.2,
+  "type": "image/gif",
+  "bytes": 5553518,
+  "file": "mlimarenko__IronRAG.gif",
+  "still": "mlimarenko__IronRAG.jpg"
  },
  "poco-ai/Agentero": {
   "repo": "poco-ai/Agentero",
