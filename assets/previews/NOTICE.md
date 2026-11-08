@@ -9,6 +9,7 @@ authors and stay under the license of the project they come from. To have one re
 | `alex09x__kyb.jpg` | [alex09x/kyb](https://github.com/alex09x/kyb) | MIT | [source](https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png) |
 | `ckryptickunal__OpenWiki.jpg` | [ckryptickunal/OpenWiki](https://github.com/ckryptickunal/OpenWiki) | MIT | [source](https://raw.githubusercontent.com/ckryptickunal/OpenWiki/HEAD/site/img/launch-poster.jpg) |
 | `evergreen-it-dev__folio.jpg` | [evergreen-it-dev/folio](https://github.com/evergreen-it-dev/folio) | MIT | [source](https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png) |
+| `gogoymh__auto-ontology-mcp.gif` | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/gogoymh/auto-ontology-mcp/HEAD/docs/assets/star.gif) |
 | `HagaiHen__podcast-wiki.gif` | [HagaiHen/podcast-wiki](https://github.com/HagaiHen/podcast-wiki) | MIT | [source](https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif) |
 | `ismailperim__briefd.gif` | [ismailperim/briefd](https://github.com/ismailperim/briefd) | Apache-2.0 | [source](https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif) |
 | `kiycoh__silica-core.gif` | [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | MIT | [source](https://raw.githubusercontent.com/kiycoh/silica-core/main/assets/quickstart.gif) |

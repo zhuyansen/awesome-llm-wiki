@@ -59,6 +59,16 @@
   "file": "evergreen-it-dev__folio.jpg",
   "still": "evergreen-it-dev__folio.jpg"
  },
+ "gogoymh/auto-ontology-mcp": {
+  "repo": "gogoymh/auto-ontology-mcp",
+  "url": "https://raw.githubusercontent.com/gogoymh/auto-ontology-mcp/HEAD/docs/assets/star.gif",
+  "alt": "Animation: a cursor clicks the Star button and it turns into Starred",
+  "score": 2.7,
+  "type": "image/gif",
+  "bytes": 80801,
+  "file": "gogoymh__auto-ontology-mcp.gif",
+  "still": "gogoymh__auto-ontology-mcp.jpg"
+ },
  "ismailperim/briefd": {
   "repo": "ismailperim/briefd",
   "url": "https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif",
