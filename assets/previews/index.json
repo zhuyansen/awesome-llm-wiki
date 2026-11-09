@@ -39,6 +39,16 @@
   "file": "alex09x__kyb.jpg",
   "still": "alex09x__kyb.jpg"
  },
+ "bibinprathap/VeritasGraph": {
+  "repo": "bibinprathap/VeritasGraph",
+  "url": "https://raw.githubusercontent.com/bibinprathap/VeritasGraph/restored-main/demos/policy-compliance/demo.gif",
+  "alt": "VeritasGraph + VeritasReason policy-compliance demo",
+  "score": 4.35,
+  "type": "image/gif",
+  "bytes": 2835675,
+  "file": "bibinprathap__VeritasGraph.gif",
+  "still": "bibinprathap__VeritasGraph.jpg"
+ },
  "ckryptickunal/OpenWiki": {
   "repo": "ckryptickunal/OpenWiki",
   "url": "https://raw.githubusercontent.com/ckryptickunal/OpenWiki/HEAD/site/img/launch-poster.jpg",

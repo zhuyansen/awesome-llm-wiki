@@ -7,6 +7,7 @@ authors and stay under the license of the project they come from. To have one re
 | File | Project | License | Original |
 |---|---|---|---|
 | `alex09x__kyb.jpg` | [alex09x/kyb](https://github.com/alex09x/kyb) | MIT | [source](https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png) |
+| `bibinprathap__VeritasGraph.gif` | [bibinprathap/VeritasGraph](https://github.com/bibinprathap/VeritasGraph) | MIT | [source](https://raw.githubusercontent.com/bibinprathap/VeritasGraph/restored-main/demos/policy-compliance/demo.gif) |
 | `ckryptickunal__OpenWiki.jpg` | [ckryptickunal/OpenWiki](https://github.com/ckryptickunal/OpenWiki) | MIT | [source](https://raw.githubusercontent.com/ckryptickunal/OpenWiki/HEAD/site/img/launch-poster.jpg) |
 | `evergreen-it-dev__folio.jpg` | [evergreen-it-dev/folio](https://github.com/evergreen-it-dev/folio) | MIT | [source](https://raw.githubusercontent.com/evergreen-it-dev/folio/HEAD/docs/images/pdf.png) |
 | `gogoymh__auto-ontology-mcp.gif` | [gogoymh/auto-ontology-mcp](https://github.com/gogoymh/auto-ontology-mcp) | Apache-2.0 | [source](https://raw.githubusercontent.com/gogoymh/auto-ontology-mcp/HEAD/docs/assets/star.gif) |
