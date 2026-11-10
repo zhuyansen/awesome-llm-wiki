@@ -1,4 +1,14 @@
 {
+ "917Dhj/DeepPaperNote": {
+  "repo": "917Dhj/DeepPaperNote",
+  "url": "https://raw.githubusercontent.com/917Dhj/DeepPaperNote/HEAD/assets/hero-deep-reading-workshop.png",
+  "alt": "DeepPaperNote Hero",
+  "score": -2.75,
+  "type": "image/png",
+  "bytes": 3068206,
+  "file": "917Dhj__DeepPaperNote.jpg",
+  "still": "917Dhj__DeepPaperNote.jpg"
+ },
  "HagaiHen/podcast-wiki": {
   "repo": "HagaiHen/podcast-wiki",
   "url": "https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif",
@@ -8,6 +18,16 @@
   "bytes": 3933836,
   "file": "HagaiHen__podcast-wiki.gif",
   "still": "HagaiHen__podcast-wiki.jpg"
+ },
+ "Marker-Inc-Korea/AutoRAG": {
+  "repo": "Marker-Inc-Korea/AutoRAG",
+  "url": "https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/HEAD/assets/autorag-agent-social-preview.png",
+  "alt": "AutoRAG Agent",
+  "score": 1.65,
+  "type": "image/png",
+  "bytes": 881419,
+  "file": "Marker-Inc-Korea__AutoRAG.jpg",
+  "still": "Marker-Inc-Korea__AutoRAG.jpg"
  },
  "MrDoe/OpenCodeRAG": {
   "repo": "MrDoe/OpenCodeRAG",

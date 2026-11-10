@@ -6,6 +6,7 @@ authors and stay under the license of the project they come from. To have one re
 
 | File | Project | License | Original |
 |---|---|---|---|
+| `917Dhj__DeepPaperNote.jpg` | [917Dhj/DeepPaperNote](https://github.com/917Dhj/DeepPaperNote) | MIT | [source](https://raw.githubusercontent.com/917Dhj/DeepPaperNote/HEAD/assets/hero-deep-reading-workshop.png) |
 | `alex09x__kyb.jpg` | [alex09x/kyb](https://github.com/alex09x/kyb) | MIT | [source](https://raw.githubusercontent.com/alex09x/kyb/HEAD/docs/assets/kyb-architecture.png) |
 | `bibinprathap__VeritasGraph.gif` | [bibinprathap/VeritasGraph](https://github.com/bibinprathap/VeritasGraph) | MIT | [source](https://raw.githubusercontent.com/bibinprathap/VeritasGraph/restored-main/demos/policy-compliance/demo.gif) |
 | `ckryptickunal__OpenWiki.jpg` | [ckryptickunal/OpenWiki](https://github.com/ckryptickunal/OpenWiki) | MIT | [source](https://raw.githubusercontent.com/ckryptickunal/OpenWiki/HEAD/site/img/launch-poster.jpg) |
@@ -14,6 +15,7 @@ authors and stay under the license of the project they come from. To have one re
 | `HagaiHen__podcast-wiki.gif` | [HagaiHen/podcast-wiki](https://github.com/HagaiHen/podcast-wiki) | MIT | [source](https://raw.githubusercontent.com/HagaiHen/podcast-wiki/HEAD/promo/preview.gif) |
 | `ismailperim__briefd.gif` | [ismailperim/briefd](https://github.com/ismailperim/briefd) | Apache-2.0 | [source](https://raw.githubusercontent.com/ismailperim/briefd/HEAD/docs/assets/briefd-demo.gif) |
 | `kiycoh__silica-core.gif` | [kiycoh/silica-core](https://github.com/kiycoh/silica-core) | MIT | [source](https://raw.githubusercontent.com/kiycoh/silica-core/main/assets/quickstart.gif) |
+| `Marker-Inc-Korea__AutoRAG.jpg` | [Marker-Inc-Korea/AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG) | Apache-2.0 | [source](https://raw.githubusercontent.com/Marker-Inc-Korea/AutoRAG/HEAD/assets/autorag-agent-social-preview.png) |
 | `mhmtsrfglu__superwiki.jpg` | [mhmtsrfglu/superwiki](https://github.com/mhmtsrfglu/superwiki) | MIT | [source](https://raw.githubusercontent.com/mhmtsrfglu/superwiki/HEAD/assets/viewer-waves-light.png) |
 | `mlimarenko__IronRAG.gif` | [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) | MIT | [source](https://raw.githubusercontent.com/mlimarenko/IronRAG/HEAD/docs/assets/readme-flow.gif) |
 | `MrDoe__OpenCodeRAG.jpg` | [MrDoe/OpenCodeRAG](https://github.com/MrDoe/OpenCodeRAG) | MIT | [source](https://raw.githubusercontent.com/MrDoe/OpenCodeRAG/HEAD/doc/assets/webui-3d.png) |
