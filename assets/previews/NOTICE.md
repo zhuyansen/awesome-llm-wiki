@@ -22,6 +22,7 @@ authors and stay under the license of the project they come from. To have one re
 | `mlimarenko__IronRAG.gif` | [mlimarenko/IronRAG](https://github.com/mlimarenko/IronRAG) | MIT | [source](https://raw.githubusercontent.com/mlimarenko/IronRAG/HEAD/docs/assets/readme-flow.gif) |
 | `MrDoe__OpenCodeRAG.jpg` | [MrDoe/OpenCodeRAG](https://github.com/MrDoe/OpenCodeRAG) | MIT | [source](https://raw.githubusercontent.com/MrDoe/OpenCodeRAG/HEAD/doc/assets/webui-3d.png) |
 | `poco-ai__Agentero.jpg` | [poco-ai/Agentero](https://github.com/poco-ai/Agentero) | MIT | [source](https://raw.githubusercontent.com/poco-ai/Agentero/HEAD/docs/assets/agent.png) |
+| `scub-france__docling-Studio.gif` | [scub-france/docling-Studio](https://github.com/scub-france/docling-Studio) | MIT | [source](https://raw.githubusercontent.com/scub-france/docling-Studio/HEAD/docs/screenshots/mcp-demo.gif) |
 | `thomasunise__casecite.jpg` | [thomasunise/casecite](https://github.com/thomasunise/casecite) | Apache-2.0 | [source](https://raw.githubusercontent.com/thomasunise/casecite/HEAD/docs/screenshots/research.png) |
 | `THUboran__china-law-mcp.jpg` | [THUboran/china-law-mcp](https://github.com/THUboran/china-law-mcp) | MIT | [source](https://raw.githubusercontent.com/THUboran/china-law-mcp/HEAD/docs/demo.png) |
 | `wenlan-app__wenlan.jpg` | [wenlan-app/wenlan](https://github.com/wenlan-app/wenlan) | Apache-2.0 | [source](https://raw.githubusercontent.com/wenlan-app/wenlan/HEAD/docs/assets/wenlan-knowledge-network.png) |
