@@ -59,6 +59,16 @@
   "file": "alex09x__kyb.jpg",
   "still": "alex09x__kyb.jpg"
  },
+ "alpha03123/vsummary": {
+  "repo": "alpha03123/vsummary",
+  "url": "https://raw.githubusercontent.com/alpha03123/vsummary/HEAD/assets/showcase-mcp-recording-summary.gif",
+  "alt": "MCP 处理并总结本地录音",
+  "score": 4.25,
+  "type": "image/gif",
+  "bytes": 1212499,
+  "file": "alpha03123__vsummary.gif",
+  "still": "alpha03123__vsummary.jpg"
+ },
  "bibinprathap/VeritasGraph": {
   "repo": "bibinprathap/VeritasGraph",
   "url": "https://raw.githubusercontent.com/bibinprathap/VeritasGraph/restored-main/demos/policy-compliance/demo.gif",
